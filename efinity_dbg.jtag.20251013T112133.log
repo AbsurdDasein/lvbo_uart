@@ -1,0 +1,154 @@
+2025-10-13 11:21:34,065 DEBUG: efx_dbg.jtag.jcf (67): log(): write_ir: 5: 11111
+2025-10-13 11:21:35,882 INFO: efx_dbg.jtag (2164): on_configure(): IN
+2025-10-13 11:21:35,883 DEBUG: efx_dbg.jtag (2178): on_configure(): IN, all_sessions = {}
+2025-10-13 11:21:35,883 DEBUG: efx_dbg.jtag (2179): on_configure(): IN, all_engins = []
+2025-10-13 11:21:35,884 INFO: efx_dbg.jtag (2188): on_configure(): Creaing new engine: url = ftdi://0x0403:0x6014:0:ff/1, tap = efx_ti
+2025-10-13 11:21:35,923 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_ir: 5: 01000
+2025-10-13 11:21:35,924 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_ir: 5: 01000
+2025-10-13 11:21:35,924 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_ir: 5: 01001
+2025-10-13 11:21:35,928 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_ir: 5: 01001
+2025-10-13 11:21:35,929 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_ir: 5: 01010
+2025-10-13 11:21:35,930 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_ir: 5: 01010
+2025-10-13 11:21:35,930 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_ir: 5: 01011
+2025-10-13 11:21:35,931 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_ir: 5: 01011
+2025-10-13 11:21:35,931 DEBUG: efx_dbg.jtag (2240): on_configure(): OUT, all_sessions = {'a6a724697c8843a0a87dfe42b6090bd1': <efx_dbg.jtag.JtagSession object at 0x0000014AD56F7310>}
+2025-10-13 11:21:35,932 DEBUG: efx_dbg.jtag (2241): on_configure(): OUT, all_engins = [<efx_dbg.engine.SharedJtagEngine object at 0x0000014AD56AFD50>]
+2025-10-13 11:21:35,932 INFO: efx_dbg.jtag (2242): on_configure(): OUT, session_id = a6a724697c8843a0a87dfe42b6090bd1
+2025-10-13 11:21:35,933 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_ir: 5: 01000
+2025-10-13 11:21:35,933 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_dr_with_ir: ir=5: 01000 data=6: 100001
+2025-10-13 11:21:35,934 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_ir: 5: 01000
+2025-10-13 11:21:35,934 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_dr_with_ir: ir=5: 01000 data=6: 100000
+2025-10-13 11:21:35,934 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_ir: 5: 01000
+2025-10-13 11:21:35,935 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_ir: 5: 01000
+2025-10-13 11:21:35,936 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_dr_with_ir: ir=5: 01000 data=6: 100010
+2025-10-13 11:21:35,936 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_ir: 5: 01000
+2025-10-13 11:21:35,936 DEBUG: efx_dbg.jtag (1333): on_configure(): IN
+2025-10-13 11:21:35,937 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_dr_with_ir: ir=5: 01000 data=19: 010 01000000 00001001
+2025-10-13 11:21:35,937 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_ir: 5: 01000
+2025-10-13 11:21:35,937 DEBUG: efx_dbg.jtag (1340): on_configure(): OUT
+2025-10-13 11:21:35,938 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_ir: 5: 01000
+2025-10-13 11:21:35,938 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_dr_with_ir: ir=5: 01000 data=6: 100100
+2025-10-13 11:21:35,938 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_ir: 5: 01000
+2025-10-13 11:21:35,939 DEBUG: efx_dbg.jtag (1333): on_configure(): IN
+2025-10-13 11:21:35,939 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_dr_with_ir: ir=5: 01000 data=19: 010 01000000 00001001
+2025-10-13 11:21:35,940 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_ir: 5: 01000
+2025-10-13 11:21:35,940 DEBUG: efx_dbg.jtag (1340): on_configure(): OUT
+2025-10-13 11:21:35,940 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_ir: 5: 01000
+2025-10-13 11:21:35,941 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_dr_with_ir: ir=5: 01000 data=6: 100010
+2025-10-13 11:21:35,941 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_ir: 5: 01000
+2025-10-13 11:21:35,942 INFO: efx_dbg.jtag (1415): on_configure(): write_dr: 18: 01 10100000 00001000
+2025-10-13 11:21:35,942 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_ir: 5: 01000
+2025-10-13 11:21:35,952 INFO: efx_dbg.jtag (1418): on_configure(): read_dr(64): 64: 10111111 10101111 11010010 01110100 01001101 10001100 01101001 10101010
+2025-10-13 11:21:35,953 INFO: efx_dbg.jtag (1415): on_configure(): write_dr: 18: 01 10100000 00001001
+2025-10-13 11:21:35,953 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_ir: 5: 01000
+2025-10-13 11:21:35,968 INFO: efx_dbg.jtag (1418): on_configure(): read_dr(64): 64: 11011010 10110100 10000110 11011010 01100110 10001110 01001011 11011100
+2025-10-13 11:21:35,969 INFO: efx_dbg.jtag (1517): on_configure(): LA Core: la0, UUID = dab486da668e4bdcbfafd2744d8c69aa, Generated UUID = 994c878e20c246dc907bf8f44a4b9187
+2025-10-13 11:21:35,969 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_ir: 5: 01000
+2025-10-13 11:21:35,970 INFO: efx_dbg.jtag (1415): on_configure(): write_dr: 18: 01 10100000 00001000
+2025-10-13 11:21:35,970 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_ir: 5: 01000
+2025-10-13 11:21:35,984 INFO: efx_dbg.jtag (1418): on_configure(): read_dr(64): 64: 10111111 10101111 11010010 01110100 01001101 10001100 01101001 10101010
+2025-10-13 11:21:35,984 INFO: efx_dbg.jtag (1415): on_configure(): write_dr: 18: 01 10100000 00001001
+2025-10-13 11:21:35,985 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_ir: 5: 01000
+2025-10-13 11:21:36,000 INFO: efx_dbg.jtag (1418): on_configure(): read_dr(64): 64: 11011010 10110100 10000110 11011010 01100110 10001110 01001011 11011100
+2025-10-13 11:21:45,710 INFO: efx_dbg.jtag (2164): on_configure(): IN
+2025-10-13 11:21:45,710 DEBUG: efx_dbg.jtag (2178): on_configure(): IN, all_sessions = {}
+2025-10-13 11:21:45,710 DEBUG: efx_dbg.jtag (2179): on_configure(): IN, all_engins = []
+2025-10-13 11:21:45,711 INFO: efx_dbg.jtag (2188): on_configure(): Creaing new engine: url = ftdi://0x0403:0x6014:0:ff/1, tap = efx_ti
+2025-10-13 11:21:45,750 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_ir: 5: 01000
+2025-10-13 11:21:45,751 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_ir: 5: 01000
+2025-10-13 11:21:45,752 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_ir: 5: 01001
+2025-10-13 11:21:45,752 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_ir: 5: 01001
+2025-10-13 11:21:45,753 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_ir: 5: 01010
+2025-10-13 11:21:45,753 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_ir: 5: 01010
+2025-10-13 11:21:45,753 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_ir: 5: 01011
+2025-10-13 11:21:45,754 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_ir: 5: 01011
+2025-10-13 11:21:45,755 DEBUG: efx_dbg.jtag (2240): on_configure(): OUT, all_sessions = {'cd356d93a6be47e6a01d5ef7157b9034': <efx_dbg.jtag.JtagSession object at 0x0000014AD56E7090>}
+2025-10-13 11:21:45,755 DEBUG: efx_dbg.jtag (2241): on_configure(): OUT, all_engins = [<efx_dbg.engine.SharedJtagEngine object at 0x0000014AD572BFD0>]
+2025-10-13 11:21:45,755 INFO: efx_dbg.jtag (2242): on_configure(): OUT, session_id = cd356d93a6be47e6a01d5ef7157b9034
+2025-10-13 11:21:45,756 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_ir: 5: 01000
+2025-10-13 11:21:45,757 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_dr_with_ir: ir=5: 01000 data=6: 100001
+2025-10-13 11:21:45,757 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_ir: 5: 01000
+2025-10-13 11:21:45,758 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_dr_with_ir: ir=5: 01000 data=6: 100000
+2025-10-13 11:21:45,758 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_ir: 5: 01000
+2025-10-13 11:21:45,759 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_ir: 5: 01000
+2025-10-13 11:21:45,759 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_dr_with_ir: ir=5: 01000 data=6: 100010
+2025-10-13 11:21:45,760 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_ir: 5: 01000
+2025-10-13 11:21:45,761 DEBUG: efx_dbg.jtag (1333): on_configure(): IN
+2025-10-13 11:21:45,761 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_dr_with_ir: ir=5: 01000 data=19: 010 01000000 00001001
+2025-10-13 11:21:45,761 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_ir: 5: 01000
+2025-10-13 11:21:45,762 DEBUG: efx_dbg.jtag (1340): on_configure(): OUT
+2025-10-13 11:21:45,762 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_ir: 5: 01000
+2025-10-13 11:21:45,763 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_dr_with_ir: ir=5: 01000 data=6: 100100
+2025-10-13 11:21:45,763 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_ir: 5: 01000
+2025-10-13 11:21:45,764 DEBUG: efx_dbg.jtag (1333): on_configure(): IN
+2025-10-13 11:21:45,764 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_dr_with_ir: ir=5: 01000 data=19: 010 01000000 00001001
+2025-10-13 11:21:45,764 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_ir: 5: 01000
+2025-10-13 11:21:45,765 DEBUG: efx_dbg.jtag (1340): on_configure(): OUT
+2025-10-13 11:21:45,765 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_ir: 5: 01000
+2025-10-13 11:21:45,765 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_dr_with_ir: ir=5: 01000 data=6: 100010
+2025-10-13 11:21:45,766 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_ir: 5: 01000
+2025-10-13 11:21:45,766 INFO: efx_dbg.jtag (1415): on_configure(): write_dr: 18: 01 10100000 00001000
+2025-10-13 11:21:45,766 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_ir: 5: 01000
+2025-10-13 11:21:45,780 INFO: efx_dbg.jtag (1418): on_configure(): read_dr(64): 64: 10111111 10101111 11010010 01110100 01001101 10001100 01101001 10101010
+2025-10-13 11:21:45,781 INFO: efx_dbg.jtag (1415): on_configure(): write_dr: 18: 01 10100000 00001001
+2025-10-13 11:21:45,781 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_ir: 5: 01000
+2025-10-13 11:21:45,797 INFO: efx_dbg.jtag (1418): on_configure(): read_dr(64): 64: 11011010 10110100 10000110 11011010 01100110 10001110 01001011 11011100
+2025-10-13 11:21:45,798 INFO: efx_dbg.jtag (1517): on_configure(): LA Core: la0, UUID = dab486da668e4bdcbfafd2744d8c69aa, Generated UUID = 994c878e20c246dc907bf8f44a4b9187
+2025-10-13 11:21:45,798 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_ir: 5: 01000
+2025-10-13 11:21:45,799 INFO: efx_dbg.jtag (1415): on_configure(): write_dr: 18: 01 10100000 00001000
+2025-10-13 11:21:45,799 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_ir: 5: 01000
+2025-10-13 11:21:45,813 INFO: efx_dbg.jtag (1418): on_configure(): read_dr(64): 64: 10111111 10101111 11010010 01110100 01001101 10001100 01101001 10101010
+2025-10-13 11:21:45,814 INFO: efx_dbg.jtag (1415): on_configure(): write_dr: 18: 01 10100000 00001001
+2025-10-13 11:21:45,814 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_ir: 5: 01000
+2025-10-13 11:21:45,829 INFO: efx_dbg.jtag (1418): on_configure(): read_dr(64): 64: 11011010 10110100 10000110 11011010 01100110 10001110 01001011 11011100
+2025-10-13 11:21:46,649 INFO: efx_dbg.jtag (2164): on_configure(): IN
+2025-10-13 11:21:46,649 DEBUG: efx_dbg.jtag (2178): on_configure(): IN, all_sessions = {}
+2025-10-13 11:21:46,650 DEBUG: efx_dbg.jtag (2179): on_configure(): IN, all_engins = []
+2025-10-13 11:21:46,650 INFO: efx_dbg.jtag (2188): on_configure(): Creaing new engine: url = ftdi://0x0403:0x6014:0:ff/1, tap = efx_ti
+2025-10-13 11:21:46,690 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_ir: 5: 01000
+2025-10-13 11:21:46,691 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_ir: 5: 01000
+2025-10-13 11:21:46,692 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_ir: 5: 01001
+2025-10-13 11:21:46,692 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_ir: 5: 01001
+2025-10-13 11:21:46,693 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_ir: 5: 01010
+2025-10-13 11:21:46,693 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_ir: 5: 01010
+2025-10-13 11:21:46,694 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_ir: 5: 01011
+2025-10-13 11:21:46,694 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_ir: 5: 01011
+2025-10-13 11:21:46,695 DEBUG: efx_dbg.jtag (2240): on_configure(): OUT, all_sessions = {'c59bc1fd77ab457e92b950a37912647b': <efx_dbg.jtag.JtagSession object at 0x0000014AAEE33610>}
+2025-10-13 11:21:46,695 DEBUG: efx_dbg.jtag (2241): on_configure(): OUT, all_engins = [<efx_dbg.engine.SharedJtagEngine object at 0x0000014AD56D4110>]
+2025-10-13 11:21:46,695 INFO: efx_dbg.jtag (2242): on_configure(): OUT, session_id = c59bc1fd77ab457e92b950a37912647b
+2025-10-13 11:21:46,696 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_ir: 5: 01000
+2025-10-13 11:21:46,697 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_dr_with_ir: ir=5: 01000 data=6: 100001
+2025-10-13 11:21:46,697 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_ir: 5: 01000
+2025-10-13 11:21:46,698 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_dr_with_ir: ir=5: 01000 data=6: 100000
+2025-10-13 11:21:46,698 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_ir: 5: 01000
+2025-10-13 11:21:46,698 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_ir: 5: 01000
+2025-10-13 11:21:46,699 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_dr_with_ir: ir=5: 01000 data=6: 100010
+2025-10-13 11:21:46,699 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_ir: 5: 01000
+2025-10-13 11:21:46,700 DEBUG: efx_dbg.jtag (1333): on_configure(): IN
+2025-10-13 11:21:46,700 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_dr_with_ir: ir=5: 01000 data=19: 010 01000000 00001001
+2025-10-13 11:21:46,700 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_ir: 5: 01000
+2025-10-13 11:21:46,701 DEBUG: efx_dbg.jtag (1340): on_configure(): OUT
+2025-10-13 11:21:46,701 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_ir: 5: 01000
+2025-10-13 11:21:46,701 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_dr_with_ir: ir=5: 01000 data=6: 100100
+2025-10-13 11:21:46,701 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_ir: 5: 01000
+2025-10-13 11:21:46,702 DEBUG: efx_dbg.jtag (1333): on_configure(): IN
+2025-10-13 11:21:46,702 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_dr_with_ir: ir=5: 01000 data=19: 010 01000000 00001001
+2025-10-13 11:21:46,702 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_ir: 5: 01000
+2025-10-13 11:21:46,703 DEBUG: efx_dbg.jtag (1340): on_configure(): OUT
+2025-10-13 11:21:46,703 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_ir: 5: 01000
+2025-10-13 11:21:46,704 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_dr_with_ir: ir=5: 01000 data=6: 100010
+2025-10-13 11:21:46,704 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_ir: 5: 01000
+2025-10-13 11:21:46,705 INFO: efx_dbg.jtag (1415): on_configure(): write_dr: 18: 01 10100000 00001000
+2025-10-13 11:21:46,705 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_ir: 5: 01000
+2025-10-13 11:21:46,720 INFO: efx_dbg.jtag (1418): on_configure(): read_dr(64): 64: 10111111 10101111 11010010 01110100 01001101 10001100 01101001 10101010
+2025-10-13 11:21:46,720 INFO: efx_dbg.jtag (1415): on_configure(): write_dr: 18: 01 10100000 00001001
+2025-10-13 11:21:46,721 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_ir: 5: 01000
+2025-10-13 11:21:46,736 INFO: efx_dbg.jtag (1418): on_configure(): read_dr(64): 64: 11011010 10110100 10000110 11011010 01100110 10001110 01001011 11011100
+2025-10-13 11:21:46,736 INFO: efx_dbg.jtag (1517): on_configure(): LA Core: la0, UUID = dab486da668e4bdcbfafd2744d8c69aa, Generated UUID = 994c878e20c246dc907bf8f44a4b9187
+2025-10-13 11:21:46,737 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_ir: 5: 01000
+2025-10-13 11:21:46,737 INFO: efx_dbg.jtag (1415): on_configure(): write_dr: 18: 01 10100000 00001000
+2025-10-13 11:21:46,738 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_ir: 5: 01000
+2025-10-13 11:21:46,752 INFO: efx_dbg.jtag (1418): on_configure(): read_dr(64): 64: 10111111 10101111 11010010 01110100 01001101 10001100 01101001 10101010
+2025-10-13 11:21:46,753 INFO: efx_dbg.jtag (1415): on_configure(): write_dr: 18: 01 10100000 00001001
+2025-10-13 11:21:46,753 DEBUG: efx_dbg.jtag.jcf (67): on_configure(): write_ir: 5: 01000
+2025-10-13 11:21:46,768 INFO: efx_dbg.jtag (1418): on_configure(): read_dr(64): 64: 11011010 10110100 10000110 11011010 01100110 10001110 01001011 11011100

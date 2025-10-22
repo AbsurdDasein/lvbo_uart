@@ -1,0 +1,1 @@
+"C:/Efinity/2022.2/bin/python.exe"  "C:/Efinity/2022.2/scripts/efx_run_pt.py"  "Ti60_Demo"  "Titanium"  "Ti60F225"

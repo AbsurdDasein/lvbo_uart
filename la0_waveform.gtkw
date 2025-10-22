@@ -1,0 +1,17 @@
+[dumpfile] "C:\Users\User\AppData\Local\Temp\tmptidgoqrp\la0tmp_continous.vcd"
+[dumpfile_mtime] "Mon Oct 13 03:30:15 2025"
+[dumpfile_size] 151762
+[savefile] "D:\New folder (7)\VF-Ti60F225_HDK_Info_V2.1-20251008\07-FPGA_HDL_Image-2023.2\Ti60F225_AD2020_HDMI_Display_30FPS\la0_waveform.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*0.000000 c 2048 6144 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[signals_width] 126
+[sst_expanded] 1
+@22
+top.csi_rxd0_hs_i[7:0]
+top.csi_rxd1_hs_i[7:0]
+top.csi_rxd2_hs_i[7:0]
+top.csi_rxd3_hs_i[7:0]
+top.mipi_byte_data[7:0]
+top.mipi_byte_data2[7:0]

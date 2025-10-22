@@ -1,0 +1,12 @@
+2025-10-13 11:16:51,790 DEBUG: efx_dbg.jtag.jcf (67): log(): write_ir: 5: 11111
+2025-10-13 11:16:55,813 DEBUG: efx_dbg.jtag.jcf (67): log(): write_ir: 5: 11111
+2025-10-13 11:16:55,938 DEBUG: efx_dbg.jtag.jcf (67): log(): write_ir: 5: 00011
+2025-10-13 11:16:55,951 DEBUG: efx_dbg.jtag.jcf (67): log(): read_dr(32): 32: 00010000 01100110 00001010 01111001
+2025-10-13 11:16:56,252 DEBUG: efx_dbg.jtag.jcf (67): log(): write_ir: 5: 00100
+2025-10-13 11:16:56,264 DEBUG: efx_dbg.jtag.jcf (67): log(): write_ir: 5: 00100
+2025-10-13 11:16:58,761 DEBUG: efx_dbg.jtag.jcf (67): log(): write_ir: 5: 00111
+2025-10-13 11:16:58,763 DEBUG: efx_dbg.jtag.jcf (67): log(): write_dr: 100: 0000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000
+2025-10-13 11:16:58,764 DEBUG: efx_dbg.jtag.jcf (67): log(): write_ir: 5: 00011
+2025-10-13 11:16:59,089 DEBUG: efx_dbg.jtag.jcf (67): log(): write_ir: 5: 11111
+2025-10-13 11:17:02,413 DEBUG: efx_dbg.jtag.jcf (67): log(): write_ir: 5: 01100
+2025-10-13 11:17:02,430 DEBUG: efx_dbg.jtag.jcf (67): log(): read_dr_with_ir(32): ir=5: 01100 data=32: 00000000 00000010 11010111 10010111

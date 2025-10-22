@@ -1,0 +1,707 @@
+{
+    "debug_cores": [
+        {
+            "name": "la0",
+            "type": "la",
+            "uuid": "7a9b9da63f5743d8bd646ab5fe86996f",
+            "trigin_en": false,
+            "trigout_en": false,
+            "auto_inserted": true,
+            "capture_control": false,
+            "data_depth": 4096,
+            "input_pipeline": 1,
+            "probes": [
+                {
+                    "name": "csi_rxd0_hs_i",
+                    "width": 8,
+                    "probe_type": 1
+                },
+                {
+                    "name": "csi_rxd1_hs_i",
+                    "width": 8,
+                    "probe_type": 1
+                },
+                {
+                    "name": "csi_rxd2_hs_i",
+                    "width": 8,
+                    "probe_type": 1
+                },
+                {
+                    "name": "csi_rxd3_hs_i",
+                    "width": 8,
+                    "probe_type": 1
+                },
+                {
+                    "name": "mipi_byte_data",
+                    "width": 8,
+                    "probe_type": 1
+                },
+                {
+                    "name": "mipi_byte_data2",
+                    "width": 8,
+                    "probe_type": 1
+                }
+            ]
+        },
+        {
+            "name": "la1",
+            "type": "la",
+            "uuid": "49581cb78d984908904762e8f512ab79",
+            "trigin_en": false,
+            "trigout_en": false,
+            "auto_inserted": true,
+            "capture_control": false,
+            "data_depth": 4096,
+            "input_pipeline": 1,
+            "probes": [
+                {
+                    "name": "w_csi_rx_vsync0",
+                    "width": 1,
+                    "probe_type": 1
+                },
+                {
+                    "name": "w_csi_rx_hsync0",
+                    "width": 1,
+                    "probe_type": 1
+                },
+                {
+                    "name": "w_csi_rx_dvalid",
+                    "width": 1,
+                    "probe_type": 1
+                },
+                {
+                    "name": "cnt_pixel",
+                    "width": 11,
+                    "probe_type": 1
+                },
+                {
+                    "name": "cnt_row",
+                    "width": 11,
+                    "probe_type": 1
+                }
+            ]
+        }
+    ],
+    "connections": [
+        {
+            "command": "add_ports",
+            "id": 1,
+            "args": {
+                "netlist": "example_top",
+                "ports": [
+                    {
+                        "name": "jtag_inst1_CAPTURE",
+                        "dir": "in",
+                        "width": 1
+                    },
+                    {
+                        "name": "jtag_inst1_DRCK",
+                        "dir": "in",
+                        "width": 1
+                    },
+                    {
+                        "name": "jtag_inst1_RESET",
+                        "dir": "in",
+                        "width": 1
+                    },
+                    {
+                        "name": "jtag_inst1_RUNTEST",
+                        "dir": "in",
+                        "width": 1
+                    },
+                    {
+                        "name": "jtag_inst1_SEL",
+                        "dir": "in",
+                        "width": 1
+                    },
+                    {
+                        "name": "jtag_inst1_SHIFT",
+                        "dir": "in",
+                        "width": 1
+                    },
+                    {
+                        "name": "jtag_inst1_TCK",
+                        "dir": "in",
+                        "width": 1
+                    },
+                    {
+                        "name": "jtag_inst1_TDI",
+                        "dir": "in",
+                        "width": 1
+                    },
+                    {
+                        "name": "jtag_inst1_TMS",
+                        "dir": "in",
+                        "width": 1
+                    },
+                    {
+                        "name": "jtag_inst1_UPDATE",
+                        "dir": "in",
+                        "width": 1
+                    },
+                    {
+                        "name": "jtag_inst1_TDO",
+                        "dir": "out",
+                        "width": 1
+                    }
+                ]
+            }
+        },
+        {
+            "command": "instantiate",
+            "netlist": "edb_top",
+            "id": 2,
+            "instance": "edb_top_inst"
+        },
+        {
+            "command": "connect",
+            "id": 3,
+            "args": {
+                "instance": "edb_top_inst",
+                "ports": [
+                    {
+                        "name": "bscan_CAPTURE",
+                        "net": "jtag_inst1_CAPTURE"
+                    },
+                    {
+                        "name": "bscan_DRCK",
+                        "net": "jtag_inst1_DRCK"
+                    },
+                    {
+                        "name": "bscan_RESET",
+                        "net": "jtag_inst1_RESET"
+                    },
+                    {
+                        "name": "bscan_RUNTEST",
+                        "net": "jtag_inst1_RUNTEST"
+                    },
+                    {
+                        "name": "bscan_SEL",
+                        "net": "jtag_inst1_SEL"
+                    },
+                    {
+                        "name": "bscan_SHIFT",
+                        "net": "jtag_inst1_SHIFT"
+                    },
+                    {
+                        "name": "bscan_TCK",
+                        "net": "jtag_inst1_TCK"
+                    },
+                    {
+                        "name": "bscan_TDI",
+                        "net": "jtag_inst1_TDI"
+                    },
+                    {
+                        "name": "bscan_TMS",
+                        "net": "jtag_inst1_TMS"
+                    },
+                    {
+                        "name": "bscan_UPDATE",
+                        "net": "jtag_inst1_UPDATE"
+                    },
+                    {
+                        "name": "bscan_TDO",
+                        "net": "jtag_inst1_TDO"
+                    },
+                    {
+                        "name": "la0_clk",
+                        "net": "csi_rxc_i",
+                        "path": []
+                    },
+                    {
+                        "name": "la0_probe0[0]",
+                        "net": "csi_rxd0_hs_i[0]",
+                        "path": []
+                    },
+                    {
+                        "name": "la0_probe0[1]",
+                        "net": "csi_rxd0_hs_i[1]",
+                        "path": []
+                    },
+                    {
+                        "name": "la0_probe0[2]",
+                        "net": "csi_rxd0_hs_i[2]",
+                        "path": []
+                    },
+                    {
+                        "name": "la0_probe0[3]",
+                        "net": "csi_rxd0_hs_i[3]",
+                        "path": []
+                    },
+                    {
+                        "name": "la0_probe0[4]",
+                        "net": "csi_rxd0_hs_i[4]",
+                        "path": []
+                    },
+                    {
+                        "name": "la0_probe0[5]",
+                        "net": "csi_rxd0_hs_i[5]",
+                        "path": []
+                    },
+                    {
+                        "name": "la0_probe0[6]",
+                        "net": "csi_rxd0_hs_i[6]",
+                        "path": []
+                    },
+                    {
+                        "name": "la0_probe0[7]",
+                        "net": "csi_rxd0_hs_i[7]",
+                        "path": []
+                    },
+                    {
+                        "name": "la0_probe1[0]",
+                        "net": "csi_rxd1_hs_i[0]",
+                        "path": []
+                    },
+                    {
+                        "name": "la0_probe1[1]",
+                        "net": "csi_rxd1_hs_i[1]",
+                        "path": []
+                    },
+                    {
+                        "name": "la0_probe1[2]",
+                        "net": "csi_rxd1_hs_i[2]",
+                        "path": []
+                    },
+                    {
+                        "name": "la0_probe1[3]",
+                        "net": "csi_rxd1_hs_i[3]",
+                        "path": []
+                    },
+                    {
+                        "name": "la0_probe1[4]",
+                        "net": "csi_rxd1_hs_i[4]",
+                        "path": []
+                    },
+                    {
+                        "name": "la0_probe1[5]",
+                        "net": "csi_rxd1_hs_i[5]",
+                        "path": []
+                    },
+                    {
+                        "name": "la0_probe1[6]",
+                        "net": "csi_rxd1_hs_i[6]",
+                        "path": []
+                    },
+                    {
+                        "name": "la0_probe1[7]",
+                        "net": "csi_rxd1_hs_i[7]",
+                        "path": []
+                    },
+                    {
+                        "name": "la0_probe2[0]",
+                        "net": "csi_rxd2_hs_i[0]",
+                        "path": []
+                    },
+                    {
+                        "name": "la0_probe2[1]",
+                        "net": "csi_rxd2_hs_i[1]",
+                        "path": []
+                    },
+                    {
+                        "name": "la0_probe2[2]",
+                        "net": "csi_rxd2_hs_i[2]",
+                        "path": []
+                    },
+                    {
+                        "name": "la0_probe2[3]",
+                        "net": "csi_rxd2_hs_i[3]",
+                        "path": []
+                    },
+                    {
+                        "name": "la0_probe2[4]",
+                        "net": "csi_rxd2_hs_i[4]",
+                        "path": []
+                    },
+                    {
+                        "name": "la0_probe2[5]",
+                        "net": "csi_rxd2_hs_i[5]",
+                        "path": []
+                    },
+                    {
+                        "name": "la0_probe2[6]",
+                        "net": "csi_rxd2_hs_i[6]",
+                        "path": []
+                    },
+                    {
+                        "name": "la0_probe2[7]",
+                        "net": "csi_rxd2_hs_i[7]",
+                        "path": []
+                    },
+                    {
+                        "name": "la0_probe3[0]",
+                        "net": "csi_rxd3_hs_i[0]",
+                        "path": []
+                    },
+                    {
+                        "name": "la0_probe3[1]",
+                        "net": "csi_rxd3_hs_i[1]",
+                        "path": []
+                    },
+                    {
+                        "name": "la0_probe3[2]",
+                        "net": "csi_rxd3_hs_i[2]",
+                        "path": []
+                    },
+                    {
+                        "name": "la0_probe3[3]",
+                        "net": "csi_rxd3_hs_i[3]",
+                        "path": []
+                    },
+                    {
+                        "name": "la0_probe3[4]",
+                        "net": "csi_rxd3_hs_i[4]",
+                        "path": []
+                    },
+                    {
+                        "name": "la0_probe3[5]",
+                        "net": "csi_rxd3_hs_i[5]",
+                        "path": []
+                    },
+                    {
+                        "name": "la0_probe3[6]",
+                        "net": "csi_rxd3_hs_i[6]",
+                        "path": []
+                    },
+                    {
+                        "name": "la0_probe3[7]",
+                        "net": "csi_rxd3_hs_i[7]",
+                        "path": []
+                    },
+                    {
+                        "name": "la0_probe4[0]",
+                        "net": "mipi_byte_data[0]",
+                        "path": []
+                    },
+                    {
+                        "name": "la0_probe4[1]",
+                        "net": "mipi_byte_data[1]",
+                        "path": []
+                    },
+                    {
+                        "name": "la0_probe4[2]",
+                        "net": "mipi_byte_data[2]",
+                        "path": []
+                    },
+                    {
+                        "name": "la0_probe4[3]",
+                        "net": "mipi_byte_data[3]",
+                        "path": []
+                    },
+                    {
+                        "name": "la0_probe4[4]",
+                        "net": "mipi_byte_data[4]",
+                        "path": []
+                    },
+                    {
+                        "name": "la0_probe4[5]",
+                        "net": "mipi_byte_data[5]",
+                        "path": []
+                    },
+                    {
+                        "name": "la0_probe4[6]",
+                        "net": "mipi_byte_data[6]",
+                        "path": []
+                    },
+                    {
+                        "name": "la0_probe4[7]",
+                        "net": "mipi_byte_data[7]",
+                        "path": []
+                    },
+                    {
+                        "name": "la0_probe5[0]",
+                        "net": "mipi_byte_data2[0]",
+                        "path": []
+                    },
+                    {
+                        "name": "la0_probe5[1]",
+                        "net": "mipi_byte_data2[1]",
+                        "path": []
+                    },
+                    {
+                        "name": "la0_probe5[2]",
+                        "net": "mipi_byte_data2[2]",
+                        "path": []
+                    },
+                    {
+                        "name": "la0_probe5[3]",
+                        "net": "mipi_byte_data2[3]",
+                        "path": []
+                    },
+                    {
+                        "name": "la0_probe5[4]",
+                        "net": "mipi_byte_data2[4]",
+                        "path": []
+                    },
+                    {
+                        "name": "la0_probe5[5]",
+                        "net": "mipi_byte_data2[5]",
+                        "path": []
+                    },
+                    {
+                        "name": "la0_probe5[6]",
+                        "net": "mipi_byte_data2[6]",
+                        "path": []
+                    },
+                    {
+                        "name": "la0_probe5[7]",
+                        "net": "mipi_byte_data2[7]",
+                        "path": []
+                    },
+                    {
+                        "name": "la1_clk",
+                        "net": "w_csi_rx_clk",
+                        "path": []
+                    },
+                    {
+                        "name": "la1_probe0",
+                        "net": "w_csi_rx_vsync0",
+                        "path": []
+                    },
+                    {
+                        "name": "la1_probe1",
+                        "net": "w_csi_rx_hsync0",
+                        "path": []
+                    },
+                    {
+                        "name": "la1_probe2",
+                        "net": "w_csi_rx_dvalid",
+                        "path": []
+                    },
+                    {
+                        "name": "la1_probe3[0]",
+                        "net": "cnt_pixel[0]",
+                        "path": []
+                    },
+                    {
+                        "name": "la1_probe3[1]",
+                        "net": "cnt_pixel[1]",
+                        "path": []
+                    },
+                    {
+                        "name": "la1_probe3[2]",
+                        "net": "cnt_pixel[2]",
+                        "path": []
+                    },
+                    {
+                        "name": "la1_probe3[3]",
+                        "net": "cnt_pixel[3]",
+                        "path": []
+                    },
+                    {
+                        "name": "la1_probe3[4]",
+                        "net": "cnt_pixel[4]",
+                        "path": []
+                    },
+                    {
+                        "name": "la1_probe3[5]",
+                        "net": "cnt_pixel[5]",
+                        "path": []
+                    },
+                    {
+                        "name": "la1_probe3[6]",
+                        "net": "cnt_pixel[6]",
+                        "path": []
+                    },
+                    {
+                        "name": "la1_probe3[7]",
+                        "net": "cnt_pixel[7]",
+                        "path": []
+                    },
+                    {
+                        "name": "la1_probe3[8]",
+                        "net": "cnt_pixel[8]",
+                        "path": []
+                    },
+                    {
+                        "name": "la1_probe3[9]",
+                        "net": "cnt_pixel[9]",
+                        "path": []
+                    },
+                    {
+                        "name": "la1_probe3[10]",
+                        "net": "cnt_pixel[10]",
+                        "path": []
+                    },
+                    {
+                        "name": "la1_probe4[0]",
+                        "net": "cnt_row[0]",
+                        "path": []
+                    },
+                    {
+                        "name": "la1_probe4[1]",
+                        "net": "cnt_row[1]",
+                        "path": []
+                    },
+                    {
+                        "name": "la1_probe4[2]",
+                        "net": "cnt_row[2]",
+                        "path": []
+                    },
+                    {
+                        "name": "la1_probe4[3]",
+                        "net": "cnt_row[3]",
+                        "path": []
+                    },
+                    {
+                        "name": "la1_probe4[4]",
+                        "net": "cnt_row[4]",
+                        "path": []
+                    },
+                    {
+                        "name": "la1_probe4[5]",
+                        "net": "cnt_row[5]",
+                        "path": []
+                    },
+                    {
+                        "name": "la1_probe4[6]",
+                        "net": "cnt_row[6]",
+                        "path": []
+                    },
+                    {
+                        "name": "la1_probe4[7]",
+                        "net": "cnt_row[7]",
+                        "path": []
+                    },
+                    {
+                        "name": "la1_probe4[8]",
+                        "net": "cnt_row[8]",
+                        "path": []
+                    },
+                    {
+                        "name": "la1_probe4[9]",
+                        "net": "cnt_row[9]",
+                        "path": []
+                    },
+                    {
+                        "name": "la1_probe4[10]",
+                        "net": "cnt_row[10]",
+                        "path": []
+                    }
+                ]
+            }
+        }
+    ],
+    "vdbs": [
+        {
+            "file": "debug_top.post.vdb",
+            "instance": "edb_top_inst"
+        }
+    ],
+    "session": {
+        "wizard": {
+            "data_depth": 4096,
+            "capture_control": false,
+            "selected_nets": [
+                {
+                    "name": "csi_rxd0_hs_i",
+                    "width": 8,
+                    "clk_domain": "csi_rxc_i",
+                    "selected_probe_type": "DATA AND TRIGGER",
+                    "child": [],
+                    "path": [],
+                    "net_idx_left": 7,
+                    "net_idx_right": 0
+                },
+                {
+                    "name": "csi_rxd1_hs_i",
+                    "width": 8,
+                    "clk_domain": "csi_rxc_i",
+                    "selected_probe_type": "DATA AND TRIGGER",
+                    "child": [],
+                    "path": [],
+                    "net_idx_left": 7,
+                    "net_idx_right": 0
+                },
+                {
+                    "name": "csi_rxd2_hs_i",
+                    "width": 8,
+                    "clk_domain": "csi_rxc_i",
+                    "selected_probe_type": "DATA AND TRIGGER",
+                    "child": [],
+                    "path": [],
+                    "net_idx_left": 7,
+                    "net_idx_right": 0
+                },
+                {
+                    "name": "csi_rxd3_hs_i",
+                    "width": 8,
+                    "clk_domain": "csi_rxc_i",
+                    "selected_probe_type": "DATA AND TRIGGER",
+                    "child": [],
+                    "path": [],
+                    "net_idx_left": 7,
+                    "net_idx_right": 0
+                },
+                {
+                    "name": "mipi_byte_data",
+                    "width": 8,
+                    "clk_domain": "csi_rxc_i",
+                    "selected_probe_type": "DATA AND TRIGGER",
+                    "child": [],
+                    "path": [],
+                    "net_idx_left": 7,
+                    "net_idx_right": 0
+                },
+                {
+                    "name": "w_csi_rx_vsync0",
+                    "width": 1,
+                    "clk_domain": "w_csi_rx_clk",
+                    "selected_probe_type": "DATA AND TRIGGER",
+                    "child": [],
+                    "path": []
+                },
+                {
+                    "name": "w_csi_rx_hsync0",
+                    "width": 1,
+                    "clk_domain": "w_csi_rx_clk",
+                    "selected_probe_type": "DATA AND TRIGGER",
+                    "child": [],
+                    "path": []
+                },
+                {
+                    "name": "w_csi_rx_dvalid",
+                    "width": 1,
+                    "clk_domain": "w_csi_rx_clk",
+                    "selected_probe_type": "DATA AND TRIGGER",
+                    "child": [],
+                    "path": []
+                },
+                {
+                    "name": "cnt_pixel",
+                    "width": 11,
+                    "clk_domain": "w_csi_rx_clk",
+                    "selected_probe_type": "DATA AND TRIGGER",
+                    "child": [],
+                    "path": [],
+                    "net_idx_left": 10,
+                    "net_idx_right": 0
+                },
+                {
+                    "name": "cnt_row",
+                    "width": 11,
+                    "clk_domain": "w_csi_rx_clk",
+                    "selected_probe_type": "DATA AND TRIGGER",
+                    "child": [],
+                    "path": [],
+                    "net_idx_left": 10,
+                    "net_idx_right": 0
+                },
+                {
+                    "name": "mipi_byte_data2",
+                    "width": 8,
+                    "clk_domain": "csi_rxc_i",
+                    "selected_probe_type": "DATA AND TRIGGER",
+                    "child": [],
+                    "path": [],
+                    "net_idx_left": 7,
+                    "net_idx_right": 0
+                }
+            ],
+            "top_module": "example_top",
+            "src": "elaborate",
+            "jtag_user": "USER1",
+            "input_pipeline": 1
+        }
+    }
+}

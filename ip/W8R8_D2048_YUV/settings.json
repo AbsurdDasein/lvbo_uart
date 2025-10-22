@@ -1,0 +1,74 @@
+{
+    "args": [
+        "-o",
+        "W8R8_D2048_YUV",
+        "--base_path",
+        "D:\\FPGA_learning\\Efinity_Project\\Ti60F225_AD2020\\Ti60F225_AD2020_1280x720@30_HDMI_BasicISP\\ip",
+        "--vlnv",
+        {
+            "vendor": "efinixinc.com",
+            "library": "memory",
+            "name": "efx_fifo_top",
+            "version": "7.1"
+        }
+    ],
+    "conf": {
+        "SYNC_CLK": "0",
+        "SYNC_STAGE": "2",
+        "DEPTH_2": "11",
+        "DATA_WIDTH": "8",
+        "MODE": "\"FWFT\"",
+        "OUTPUT_REG": "0",
+        "PROG_FULL_ASSERT": "128",
+        "PROGRAMMABLE_FULL": "\"STATIC_SINGLE\"",
+        "PFN_INTERNAL": "3",
+        "PEA_INTERNAL": "0",
+        "PEN_INTERNAL": "0",
+        "PROGRAMMABLE_EMPTY": "\"NONE\"",
+        "OPTIONAL_FLAGS": "1",
+        "PIPELINE_REG": "1",
+        "ASYM_WIDTH_RATIO": "4",
+        "BYPASS_RESET_SYNC": "0",
+        "ENDIANESS": "0",
+        "RAM_STYLE": "\"block_ram\"",
+        "OVERFLOW_PROTECT": "0",
+        "UNDERFLOW_PROTECT": "0"
+    },
+    "output": {
+        "external_source_source": [
+            "W8R8_D2048_YUV\\W8R8_D2048_YUV_tmpl.vhd",
+            "W8R8_D2048_YUV\\W8R8_D2048_YUV_define.vh",
+            "W8R8_D2048_YUV\\W8R8_D2048_YUV_tmpl.v",
+            "W8R8_D2048_YUV\\W8R8_D2048_YUV.v"
+        ],
+        "external_example_example": [
+            "W8R8_D2048_YUV\\T20F256_devkit\\fifo_demo_top.v",
+            "W8R8_D2048_YUV\\T20F256_devkit\\fifo_demo_T20.sdc",
+            "W8R8_D2048_YUV\\T20F256_devkit\\efx_symmetric_width_fifo_top.v",
+            "W8R8_D2048_YUV\\T20F256_devkit\\W8R8_D2048_YUV.v",
+            "W8R8_D2048_YUV\\T20F256_devkit\\W8R8_D2048_YUV_define.vh",
+            "W8R8_D2048_YUV\\T20F256_devkit\\fifo_demo.peri.xml",
+            "W8R8_D2048_YUV\\T20F256_devkit\\fifo_demo.xml"
+        ],
+        "external_example_2": [
+            "W8R8_D2048_YUV\\Ti60F225_devkit\\fifo_demo_top.v",
+            "W8R8_D2048_YUV\\Ti60F225_devkit\\fifo_demo_Ti60.sdc",
+            "W8R8_D2048_YUV\\Ti60F225_devkit\\efx_symmetric_width_fifo_top.v",
+            "W8R8_D2048_YUV\\Ti60F225_devkit\\W8R8_D2048_YUV.v",
+            "W8R8_D2048_YUV\\Ti60F225_devkit\\W8R8_D2048_YUV_define.vh",
+            "W8R8_D2048_YUV\\Ti60F225_devkit\\fifo_demo.peri.xml",
+            "W8R8_D2048_YUV\\Ti60F225_devkit\\fifo_demo.xml"
+        ],
+        "external_testbench_testbench": [
+            "W8R8_D2048_YUV\\Testbench\\fifo_tb.sv",
+            "W8R8_D2048_YUV\\Testbench\\xrun.sh",
+            "W8R8_D2048_YUV\\Testbench\\msim.sh",
+            "W8R8_D2048_YUV\\Testbench\\flist",
+            "W8R8_D2048_YUV\\Testbench\\modelsim.do",
+            "W8R8_D2048_YUV\\Testbench\\W8R8_D2048_YUV.v",
+            "W8R8_D2048_YUV\\Testbench\\W8R8_D2048_YUV_define.vh"
+        ]
+    },
+    "sw_version": "2024.2.294",
+    "generated_date": "2025-03-25T01:49:27.133885+00:00"
+}

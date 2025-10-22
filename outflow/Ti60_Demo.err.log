@@ -1,0 +1,579 @@
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Jun 24, 2023 14:48:59
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Sep 19, 2023 10:00:19
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Sep 19, 2023 10:09:16
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Sep 20, 2023 14:40:57
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 20, 2025 14:52:25
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 20, 2025 15:52:17
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 20, 2025 16:01:19
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 20, 2025 16:06:50
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 20, 2025 16:12:43
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 20, 2025 16:19:25
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 20, 2025 16:32:10
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 20, 2025 16:35:45
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 20, 2025 16:47:42
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 20, 2025 16:48:08
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 20, 2025 16:54:36
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 20, 2025 17:02:47
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 20, 2025 17:10:49
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 20, 2025 17:16:45
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 20, 2025 17:24:26
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 20, 2025 17:33:28
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 20, 2025 18:02:15
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 25, 2025 10:00:59
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] instantiating unknown module 'delay_reg' (VERI-1063) (D:\FPGA_learning\Efinity_Project\Ti60F225_AD2020\Ti60F225_AD2020_1280x720@30_HDMI_BasicISP\example_top.v:1045)
+[EFX-0021 ERROR] Elaboration of module 'example_top' failed. Please check previous error messages.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 25, 2025 10:02:04
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 25, 2025 10:05:20
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 25, 2025 10:12:17
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 25, 2025 10:17:29
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] instantiating unknown module 'R0_FIFO_32' (VERI-1063) (D:\FPGA_learning\Efinity_Project\Ti60F225_AD2020\Ti60F225_AD2020_1280x720@30_HDMI_BasicISP\src\axi\axi4_ctrl.v:445)
+[EFX-0021 ERROR] Elaboration of module 'example_top' failed. Please check previous error messages.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 25, 2025 10:17:48
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 25, 2025 10:23:34
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 25, 2025 10:28:11
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 25, 2025 10:28:43
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 25, 2025 10:34:29
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 25, 2025 10:40:29
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 25, 2025 10:43:56
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] instantiating unknown module 'bad_dot_improve' (VERI-1063) (D:\FPGA_learning\Efinity_Project\Ti60F225_AD2020\Ti60F225_AD2020_1280x720@30_HDMI_BasicISP\example_top.v:1078)
+[EFX-0021 ERROR] Elaboration of module 'example_top' failed. Please check previous error messages.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 25, 2025 10:44:43
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 25, 2025 10:53:15
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 25, 2025 10:56:21
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 25, 2025 11:02:35
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 25, 2025 11:04:30
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 25, 2025 11:18:34
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 25, 2025 11:25:31
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 25, 2025 11:28:39
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 25, 2025 11:38:19
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 25, 2025 11:45:24
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 25, 2025 11:52:10
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// May 12, 2025 09:26:10
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// May 12, 2025 09:26:34
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// May 12, 2025 09:28:23
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// May 12, 2025 10:57:21
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// May 12, 2025 11:12:10
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// May 12, 2025 11:17:20
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Jul 22, 2025 10:29:14
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Jul 22, 2025 10:34:37
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Jul 22, 2025 10:39:17
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Jul 22, 2025 10:39:29
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Jul 22, 2025 10:58:32
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Jul 22, 2025 11:06:55
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Jul 22, 2025 11:14:01
+///////////////////////////////////
+
+[EFX-0202 ERROR] Net 'w_csi_rx_clk' has multiple drivers. (D:\temp_colorbar\Ti60F225_AD2020_HDMI_Display\example_top.v:673)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Jul 22, 2025 11:15:48
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Jul 22, 2025 11:22:12
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] overwriting previous definition of module 'Row_Line_Counter' (VERI-1206) (D:\temp_colorbar\Ti60F225_AD2020_HDMI_Display\Row_Line_Counter.v:84)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Jul 22, 2025 11:22:26
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Jul 22, 2025 11:43:25
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Jul 22, 2025 11:51:22
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Jul 22, 2025 11:56:33
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Jul 22, 2025 12:00:38
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Jul 22, 2025 12:02:36
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Jul 22, 2025 12:05:09
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Jul 22, 2025 12:08:00
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Jul 22, 2025 18:02:55
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 13, 2025 11:14:20
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 13, 2025 11:27:13
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 13, 2025 11:33:22
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 13, 2025 11:36:43
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 16, 2025 14:52:35
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 20, 2025 12:22:44
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] net 'w_filter_valid' is constantly driven from multiple places (VDB-1000) (D:\FPGAbisai\Ti60F225_HDMI_A2020_30FPS_Fixed\example_top.v:1436)
+[EFX-0010 VERI-ERROR] found another driver here (VDB-1001) (D:\FPGAbisai\Ti60F225_HDMI_A2020_30FPS_Fixed\example_top.v:1436)
+[EFX-0021 ERROR] Elaboration of module 'example_top' failed. Please check previous error messages.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 20, 2025 12:24:01
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 20, 2025 12:53:02
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 21, 2025 17:52:30
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] concurrent assignment to a non-net 'rx_data' is not permitted (VERI-1195) (F:\code\Efinity\lvbo\src\uart_cmd_parser.v:64)
+[EFX-0010 VERI-ERROR] concurrent assignment to a non-net 'rx_valid' is not permitted (VERI-1195) (F:\code\Efinity\lvbo\src\uart_cmd_parser.v:65)
+[EFX-0010 VERI-ERROR] concurrent assignment to a non-net 'tx_busy' is not permitted (VERI-1195) (F:\code\Efinity\lvbo\src\uart_cmd_parser.v:78)
+[EFX-0021 ERROR] Elaboration of module 'example_top' failed. Please check previous error messages.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 21, 2025 17:55:26
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] concurrent assignment to a non-net 'rx_data' is not permitted (VERI-1195) (F:\code\Efinity\lvbo\src\uart_cmd_parser.v:58)
+[EFX-0010 VERI-ERROR] concurrent assignment to a non-net 'rx_valid' is not permitted (VERI-1195) (F:\code\Efinity\lvbo\src\uart_cmd_parser.v:59)
+[EFX-0010 VERI-ERROR] concurrent assignment to a non-net 'tx_busy' is not permitted (VERI-1195) (F:\code\Efinity\lvbo\src\uart_cmd_parser.v:72)
+[EFX-0021 ERROR] Elaboration of module 'example_top' failed. Please check previous error messages.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 21, 2025 17:56:09
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] net 'filter_enable' is constantly driven from multiple places (VDB-1000) (F:\code\Efinity\lvbo\src\uart_cmd_parser.v:100)
+[EFX-0010 VERI-ERROR] found another driver here (VDB-1001) (F:\code\Efinity\lvbo\src\uart_cmd_parser.v:207)
+[EFX-0021 ERROR] Elaboration of module 'example_top' failed. Please check previous error messages.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 21, 2025 17:59:50
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] net 'filter_enable' is constantly driven from multiple places (VDB-1000) (F:\code\Efinity\lvbo\src\uart_cmd_parser.v:100)
+[EFX-0010 VERI-ERROR] found another driver here (VDB-1001) (F:\code\Efinity\lvbo\src\uart_cmd_parser.v:241)
+[EFX-0021 ERROR] Elaboration of module 'example_top' failed. Please check previous error messages.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 21, 2025 18:05:52
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] net 'filter_status_changed' is constantly driven from multiple places (VDB-1000) (F:\code\Efinity\lvbo\src\uart_cmd_parser.v:98)
+[EFX-0010 VERI-ERROR] found another driver here (VDB-1001) (F:\code\Efinity\lvbo\src\uart_cmd_parser.v:239)
+[EFX-0021 ERROR] Elaboration of module 'example_top' failed. Please check previous error messages.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 21, 2025 18:08:40
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] assignment under multiple clock edges is not supported for synthesis (VERI-1466) (F:\code\Efinity\lvbo\src\uart_cmd_parser.v:203)
+[EFX-0021 ERROR] Elaboration of module 'example_top' failed. Please check previous error messages.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 21, 2025 18:11:52
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] net 'filter_enable' is constantly driven from multiple places (VDB-1000) (F:\code\Efinity\lvbo\src\uart_cmd_parser.v:100)
+[EFX-0010 VERI-ERROR] found another driver here (VDB-1001) (F:\code\Efinity\lvbo\src\uart_cmd_parser.v:240)
+[EFX-0021 ERROR] Elaboration of module 'example_top' failed. Please check previous error messages.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 21, 2025 20:06:56
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] unexpected non-printable character with the hex value '0xef' (VERI-2607) (F:\code\Efinity\lvbo\example_top.v:1442)
+[EFX-0010 VERI-ERROR] module 'example_top' is ignored due to previous errors (VERI-1072) (F:\code\Efinity\lvbo\example_top.v:1721)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 21, 2025 20:08:08
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] instantiating unknown module 'uart_cmd_parser' (VERI-1063) (F:\code\Efinity\lvbo\example_top.v:1443)
+[EFX-0021 ERROR] Elaboration of module 'example_top' failed. Please check previous error messages.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 21, 2025 20:08:21
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] instantiating unknown module 'uart_cmd_parser' (VERI-1063) (F:\code\Efinity\lvbo\example_top.v:1443)
+[EFX-0021 ERROR] Elaboration of module 'example_top' failed. Please check previous error messages.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 21, 2025 20:08:56
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 21, 2025 20:19:20
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 21, 2025 20:31:47
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 21, 2025 20:43:19
+///////////////////////////////////
+

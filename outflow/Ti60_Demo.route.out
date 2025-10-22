@@ -1,0 +1,789 @@
+WARNING  : No ports matched 'dsi_refclk_i'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:18] No valid pin(s) found for clock
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:18] Unable to run 'create_clock' constraint due to warnings found
+WARNING  : No ports matched 'clk_pixel_2x'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:28] No valid pin(s) found for clock
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:28] Unable to run 'create_clock' constraint due to warnings found
+WARNING  : No ports matched 'clk_54m'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:33] No valid pin(s) found for clock
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:33] Unable to run 'create_clock' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[0]'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:41] No clocks matched 'cmos_pclk'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:41] set_input_delay: No valid clock found for -clock
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:41] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[0]'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:42] No clocks matched 'cmos_pclk'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:42] set_input_delay: No valid clock found for -clock
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:42] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[1]'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:43] No clocks matched 'cmos_pclk'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:43] set_input_delay: No valid clock found for -clock
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:43] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[1]'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:44] No clocks matched 'cmos_pclk'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:44] set_input_delay: No valid clock found for -clock
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:44] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[2]'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:45] No clocks matched 'cmos_pclk'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:45] set_input_delay: No valid clock found for -clock
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:45] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[2]'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:46] No clocks matched 'cmos_pclk'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:46] set_input_delay: No valid clock found for -clock
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:46] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[3]'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:47] No clocks matched 'cmos_pclk'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:47] set_input_delay: No valid clock found for -clock
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:47] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[3]'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:48] No clocks matched 'cmos_pclk'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:48] set_input_delay: No valid clock found for -clock
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:48] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[4]'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:49] No clocks matched 'cmos_pclk'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:49] set_input_delay: No valid clock found for -clock
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:49] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[4]'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:50] No clocks matched 'cmos_pclk'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:50] set_input_delay: No valid clock found for -clock
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:50] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[5]'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:51] No clocks matched 'cmos_pclk'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:51] set_input_delay: No valid clock found for -clock
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:51] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[5]'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:52] No clocks matched 'cmos_pclk'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:52] set_input_delay: No valid clock found for -clock
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:52] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[6]'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:53] No clocks matched 'cmos_pclk'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:53] set_input_delay: No valid clock found for -clock
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:53] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[6]'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:54] No clocks matched 'cmos_pclk'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:54] set_input_delay: No valid clock found for -clock
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:54] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[7]'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:55] No clocks matched 'cmos_pclk'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:55] set_input_delay: No valid clock found for -clock
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:55] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[7]'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:56] No clocks matched 'cmos_pclk'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:56] set_input_delay: No valid clock found for -clock
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:56] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_href'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:57] No clocks matched 'cmos_pclk'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:57] set_input_delay: No valid clock found for -clock
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:57] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_href'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:58] No clocks matched 'cmos_pclk'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:58] set_input_delay: No valid clock found for -clock
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:58] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_vsync'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:59] No clocks matched 'cmos_pclk'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:59] set_input_delay: No valid clock found for -clock
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:59] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_vsync'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:60] No clocks matched 'cmos_pclk'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:60] set_input_delay: No valid clock found for -clock
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:60] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:86] Missing value for option -period, please type 'create_clock -help' for usage info
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:86] Unable to run 'create_clock' constraint due to warnings found
+WARNING  : No ports matched 'i_dqs_n_hi[0]'
+WARNING  : No ports matched 'i_dqs_n_lo[0]'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:305] set_input_delay: No valid input port(s) found
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:305] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'i_dqs_n_lo[0]'
+WARNING  : No ports matched 'i_dqs_n_hi[0]'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:306] set_input_delay: No valid input port(s) found
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:306] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'i_dqs_n_lo[1]'
+WARNING  : No ports matched 'i_dqs_n_hi[1]'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:311] set_input_delay: No valid input port(s) found
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:311] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'i_dqs_n_lo[1]'
+WARNING  : No ports matched 'i_dqs_n_hi[1]'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:312] set_input_delay: No valid input port(s) found
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:312] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:540] No clocks matched 'csi_rxc_i'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:540] set_output_delay: No valid clock found for -clock
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:540] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:541] No clocks matched 'csi_rxc_i'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:541] set_output_delay: No valid clock found for -clock
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:541] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:542] No clocks matched 'csi_rxc_i'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:542] set_input_delay: No valid clock found for -clock
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:542] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:543] No clocks matched 'csi_rxc_i'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:543] set_input_delay: No valid clock found for -clock
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:543] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:544] No clocks matched 'csi_rxc_i'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:544] set_output_delay: No valid clock found for -clock
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:544] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:545] No clocks matched 'csi_rxc_i'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:545] set_output_delay: No valid clock found for -clock
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:545] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxd1_hs_i[*]'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:546] No clocks matched 'csi_rxc_i'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:546] set_input_delay: No valid clock found for -clock
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:546] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxd1_hs_i[*]'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:547] No clocks matched 'csi_rxc_i'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:547] set_input_delay: No valid clock found for -clock
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:547] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:548] No clocks matched 'csi_rxc_i'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:548] set_output_delay: No valid clock found for -clock
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:548] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:549] No clocks matched 'csi_rxc_i'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:549] set_output_delay: No valid clock found for -clock
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:549] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxd2_hs_i[*]'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:550] No clocks matched 'csi_rxc_i'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:550] set_input_delay: No valid clock found for -clock
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:550] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxd2_hs_i[*]'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:551] No clocks matched 'csi_rxc_i'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:551] set_input_delay: No valid clock found for -clock
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:551] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:552] No clocks matched 'csi_rxc_i'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:552] set_output_delay: No valid clock found for -clock
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:552] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:553] No clocks matched 'csi_rxc_i'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:553] set_output_delay: No valid clock found for -clock
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:553] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxd3_hs_i[*]'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:554] No clocks matched 'csi_rxc_i'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:554] set_input_delay: No valid clock found for -clock
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:554] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxd3_hs_i[*]'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:555] No clocks matched 'csi_rxc_i'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:555] set_input_delay: No valid clock found for -clock
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:555] Unable to run 'set_input_delay' constraint due to warnings found
+INFO     : ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+INFO     : Router Setup
+INFO     : ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+INFO     : [Setup Parallel Routing Scheduler]
+INFO     : ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+INFO     : Route Circuit with 32 threads
+INFO     : ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+INFO     : Beneficial skew enabled! Optimizing clock skews ... 
+INFO     : Non-legalized beneficial skew improved geomean CPD by 1.13% (from 2932ps to 2899ps)
+INFO     : CSS improved CPD of clock tdqss_clk by 0.00% (from 1832ps to 1832ps)
+INFO     : CSS improved CPD of clock core_clk by 10.37% (from 3982ps to 3569ps)
+INFO     : CSS improved CPD of clock tac_clk by 0.00% (from 1923ps to 1923ps)
+INFO     : CSS improved CPD of clock twd_clk by 0.00% (from 1952ps to 1952ps)
+INFO     : CSS improved CPD of clock clk_sys by 0.00% (from 5792ps to 5792ps)
+INFO     : CSS improved CPD of clock clk_pixel by 0.00% (from 4008ps to 4008ps)
+INFO     : Discretized beneficial skew improved geomean CPD by 1.81% (from 2932ps to 2879ps in 8 iterations and 0.3 sec)
+INFO     : ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+INFO     : Overridding delay budgets for 437 synchronizer-related pins
+
+INFO     : Iter  1: overlap=18097   heapops=2519352    (0%) cpd=989   frr=1.00  msec=941
+INFO     : [Setup Delay Budgets | 187.7 ms]
+INFO     : ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+INFO     : Hold Fixing
+INFO     : ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+INFO     : Total min wire delay:   3565142
+INFO     : Hold fix wire delay:        239
+INFO     : Hold fix delay ratio:     0.01%
+INFO     : Pins requiring hold fix:  0.02%
+INFO     : ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+INFO     : Iter  2: overlap=7780    heapops=1867494    (31%) cpd=989   frr=1.00  msec=381
+INFO     : Iter  3: overlap=4693    heapops=1382857    (48%) cpd=989   frr=1.00  msec=323
+INFO     : Iter  4: overlap=2830    heapops=1058940    (62%) cpd=989   frr=1.00  msec=237
+INFO     : Iter  5: overlap=1545    heapops=736462     (71%) cpd=989   frr=1.00  msec=194
+INFO     : Iter  6: overlap=765     heapops=456130     (77%) cpd=989   frr=1.00  msec=152
+INFO     : Iter  7: overlap=279     heapops=280812     (84%) cpd=989   frr=1.00  msec=124
+INFO     : [Rebuild Parallel Routing Scheduler]
+INFO     : Iter  8: overlap=102     heapops=164303     (86%) cpd=989   frr=1.00  msec=117
+INFO     : Iter  9: overlap=28      heapops=85755      (87%) cpd=989   frr=1.00  msec=86
+INFO     : Iter 10: overlap=8       heapops=62619      (88%) cpd=989   frr=1.00  msec=78
+INFO     : Iter 11: overlap=6       heapops=66365      (88%) cpd=989   frr=1.00  msec=83
+INFO     : Iter 12: overlap=6       heapops=70783      (88%) cpd=989   frr=1.00  msec=89
+INFO     : Iter 13: overlap=5       heapops=66221      (88%) cpd=989   frr=1.00  msec=81
+INFO     : Iter 14: overlap=6       heapops=65405      (88%) cpd=989   frr=1.00  msec=78
+INFO     : Iter 15: overlap=5       heapops=65795      (88%) cpd=989   frr=1.00  msec=90
+INFO     : Iter 16: overlap=2       heapops=234096     (88%) cpd=989   frr=1.00  msec=166
+INFO     : Iter 17: overlap=4       heapops=238053     (88%) cpd=989   frr=1.00  msec=191
+INFO     : Iter 18: overlap=3       heapops=51498      (88%) cpd=989   frr=1.00  msec=80
+INFO     : Iter 19: overlap=1       heapops=50680      (88%) cpd=989   frr=1.00  msec=85
+INFO     : Iter 20: overlap=1       heapops=50596      (88%) cpd=989   frr=1.00  msec=87
+INFO     : ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+INFO     : Beneficial skew enabled! Optimizing clock skews ... 
+INFO     : Non-legalized beneficial skew improved geomean CPD by 0.00% (from 3123ps to 3123ps)
+INFO     : CSS improved CPD of clock tdqss_clk by 0.00% (from 1843ps to 1843ps)
+INFO     : CSS improved CPD of clock core_clk by 0.00% (from 3926ps to 3926ps)
+INFO     : CSS improved CPD of clock tac_clk by 0.00% (from 2065ps to 2065ps)
+INFO     : CSS improved CPD of clock twd_clk by -0.10% (from 1981ps to 1983ps)
+INFO     : CSS improved CPD of clock clk_sys by 0.00% (from 6536ps to 6536ps)
+INFO     : CSS improved CPD of clock clk_pixel by 0.00% (from 4796ps to 4796ps)
+INFO     : Discretized beneficial skew improved geomean CPD by 0.00% (from 3123ps to 3123ps in 1 iterations and 0.3 sec)
+INFO     : ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+INFO     : Iter 21: overlap=0       heapops=50582      (88%) cpd=989   frr=1.00  msec=381
+INFO     : ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+INFO     : Routing Result
+INFO     : ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+INFO     : Routing Succeeded in 4.37 seconds taking 21 iterations! 
+INFO     : 
+INFO     : First iteration critical path delay = 0.989 ns 
+INFO     : Last iteration critical path delay  = 0.989 ns (ratio = 1.00)
+INFO     : Max Routing Heap Size = 55,729
+INFO     : Routing trace written to file 'F:/code/Efinity/lvbo/outflow/Ti60_Demo.troutingtraces' 
+INFO     : ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+INFO     : Routing took 10.7223 seconds.
+INFO     : 	Routing took 31.3594 seconds (approximately) in total CPU time.
+INFO     : Routing virtual memory usage: begin = 191.072 MB, end = 297.976 MB, delta = 106.904 MB
+INFO     : 	Routing peak virtual memory usage = 438.952 MB
+INFO     : Routing resident set memory usage: begin = 207.676 MB, end = 312.144 MB, delta = 104.468 MB
+INFO     : 	Routing peak resident set memory usage = 416.356 MB
+           ***** Beginning stage final timing analysis ... *****
+WARNING  : No ports matched 'dsi_refclk_i'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:18] No valid pin(s) found for clock
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:18] Unable to run 'create_clock' constraint due to warnings found
+WARNING  : No ports matched 'clk_pixel_2x'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:28] No valid pin(s) found for clock
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:28] Unable to run 'create_clock' constraint due to warnings found
+WARNING  : No ports matched 'clk_54m'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:33] No valid pin(s) found for clock
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:33] Unable to run 'create_clock' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[0]'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:41] No clocks matched 'cmos_pclk'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:41] set_input_delay: No valid clock found for -clock
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:41] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[0]'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:42] No clocks matched 'cmos_pclk'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:42] set_input_delay: No valid clock found for -clock
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:42] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[1]'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:43] No clocks matched 'cmos_pclk'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:43] set_input_delay: No valid clock found for -clock
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:43] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[1]'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:44] No clocks matched 'cmos_pclk'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:44] set_input_delay: No valid clock found for -clock
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:44] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[2]'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:45] No clocks matched 'cmos_pclk'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:45] set_input_delay: No valid clock found for -clock
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:45] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[2]'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:46] No clocks matched 'cmos_pclk'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:46] set_input_delay: No valid clock found for -clock
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:46] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[3]'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:47] No clocks matched 'cmos_pclk'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:47] set_input_delay: No valid clock found for -clock
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:47] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[3]'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:48] No clocks matched 'cmos_pclk'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:48] set_input_delay: No valid clock found for -clock
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:48] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[4]'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:49] No clocks matched 'cmos_pclk'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:49] set_input_delay: No valid clock found for -clock
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:49] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[4]'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:50] No clocks matched 'cmos_pclk'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:50] set_input_delay: No valid clock found for -clock
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:50] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[5]'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:51] No clocks matched 'cmos_pclk'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:51] set_input_delay: No valid clock found for -clock
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:51] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[5]'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:52] No clocks matched 'cmos_pclk'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:52] set_input_delay: No valid clock found for -clock
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:52] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[6]'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:53] No clocks matched 'cmos_pclk'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:53] set_input_delay: No valid clock found for -clock
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:53] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[6]'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:54] No clocks matched 'cmos_pclk'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:54] set_input_delay: No valid clock found for -clock
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:54] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[7]'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:55] No clocks matched 'cmos_pclk'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:55] set_input_delay: No valid clock found for -clock
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:55] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_data[7]'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:56] No clocks matched 'cmos_pclk'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:56] set_input_delay: No valid clock found for -clock
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:56] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_href'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:57] No clocks matched 'cmos_pclk'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:57] set_input_delay: No valid clock found for -clock
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:57] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_href'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:58] No clocks matched 'cmos_pclk'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:58] set_input_delay: No valid clock found for -clock
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:58] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_vsync'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:59] No clocks matched 'cmos_pclk'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:59] set_input_delay: No valid clock found for -clock
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:59] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'cmos_vsync'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:60] No clocks matched 'cmos_pclk'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:60] set_input_delay: No valid clock found for -clock
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:60] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:86] Missing value for option -period, please type 'create_clock -help' for usage info
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:86] Unable to run 'create_clock' constraint due to warnings found
+WARNING  : No ports matched 'i_dqs_n_lo[0]'
+WARNING  : No ports matched 'i_dqs_n_hi[0]'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:305] set_input_delay: No valid input port(s) found
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:305] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'i_dqs_n_lo[0]'
+WARNING  : No ports matched 'i_dqs_n_hi[0]'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:306] set_input_delay: No valid input port(s) found
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:306] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'i_dqs_n_lo[1]'
+WARNING  : No ports matched 'i_dqs_n_hi[1]'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:311] set_input_delay: No valid input port(s) found
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:311] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'i_dqs_n_lo[1]'
+WARNING  : No ports matched 'i_dqs_n_hi[1]'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:312] set_input_delay: No valid input port(s) found
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:312] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:540] No clocks matched 'csi_rxc_i'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:540] set_output_delay: No valid clock found for -clock
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:540] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:541] No clocks matched 'csi_rxc_i'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:541] set_output_delay: No valid clock found for -clock
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:541] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:542] No clocks matched 'csi_rxc_i'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:542] set_input_delay: No valid clock found for -clock
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:542] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:543] No clocks matched 'csi_rxc_i'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:543] set_input_delay: No valid clock found for -clock
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:543] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:544] No clocks matched 'csi_rxc_i'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:544] set_output_delay: No valid clock found for -clock
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:544] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:545] No clocks matched 'csi_rxc_i'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:545] set_output_delay: No valid clock found for -clock
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:545] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxd1_hs_i[*]'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:546] No clocks matched 'csi_rxc_i'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:546] set_input_delay: No valid clock found for -clock
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:546] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxd1_hs_i[*]'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:547] No clocks matched 'csi_rxc_i'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:547] set_input_delay: No valid clock found for -clock
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:547] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:548] No clocks matched 'csi_rxc_i'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:548] set_output_delay: No valid clock found for -clock
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:548] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:549] No clocks matched 'csi_rxc_i'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:549] set_output_delay: No valid clock found for -clock
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:549] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxd2_hs_i[*]'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:550] No clocks matched 'csi_rxc_i'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:550] set_input_delay: No valid clock found for -clock
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:550] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxd2_hs_i[*]'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:551] No clocks matched 'csi_rxc_i'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:551] set_input_delay: No valid clock found for -clock
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:551] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:552] No clocks matched 'csi_rxc_i'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:552] set_output_delay: No valid clock found for -clock
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:552] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:553] No clocks matched 'csi_rxc_i'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:553] set_output_delay: No valid clock found for -clock
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:553] Unable to run 'set_output_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxd3_hs_i[*]'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:554] No clocks matched 'csi_rxc_i'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:554] set_input_delay: No valid clock found for -clock
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:554] Unable to run 'set_input_delay' constraint due to warnings found
+WARNING  : No ports matched 'csi_rxd3_hs_i[*]'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:555] No clocks matched 'csi_rxc_i'
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:555] set_input_delay: No valid clock found for -clock
+WARNING  : [SDC F:/code/Efinity/lvbo/Ti60_Demo.pt.sdc:555] Unable to run 'set_input_delay' constraint due to warnings found
+Maximum possible analyzed clocks frequency
+ Clock Name  Period (ns)  Frequency (MHz)     Edge
+ tdqss_clk      1.953        512.033         (R-R)
+ core_clk       4.036        247.770         (R-R)
+ tac_clk        2.175        459.770         (R-R)
+ twd_clk        2.093        477.783         (R-R)
+ clk_sys        6.646        150.466         (R-R)
+ clk_pixel      4.906        203.832         (R-R)
+
+Geomean max period: 3.246
+
+Setup (Max) Clock Relationship
+  Launch Clock    Capture Clock   Constraint (ns)     Slack (ns)          Edge
+   tdqss_clk        tdqss_clk           2.604            0.651           (R-R)
+   tdqss_clk        core_clk            2.604            2.120           (R-R)
+   core_clk         tdqss_clk           2.604            1.064           (R-R)
+   core_clk         core_clk            5.208            1.172           (R-R)
+   core_clk         tac_clk             2.604            2.260           (R-R)
+   core_clk         twd_clk             0.651            0.328           (R-R)
+   core_clk         clk_sys             0.001           -0.584           (R-R)
+   tac_clk          core_clk            2.604            2.106           (R-R)
+   tac_clk          tac_clk             2.604            0.429           (R-R)
+   tac_clk          clk_sys             0.001           -0.554           (R-R)
+   twd_clk          core_clk            1.953            0.029           (R-R)
+   twd_clk          twd_clk             2.604            0.511           (R-R)
+   twd_clk          clk_sys             0.001           -0.439           (R-R)
+   clk_sys          core_clk            0.001           -0.736           (R-R)
+   clk_sys          tac_clk             0.001           -0.639           (R-R)
+   clk_sys          twd_clk             0.001           -0.599           (R-R)
+   clk_sys          clk_sys            10.417            3.771           (R-R)
+   clk_sys          clk_pixel           0.001           -0.908           (R-R)
+   clk_pixel        clk_sys             0.001           -1.098           (R-R)
+   clk_pixel        clk_pixel          13.441            8.535           (R-R)
+
+Hold (Min) Clock Relationship
+  Launch Clock    Capture Clock   Constraint (ns)     Slack (ns)          Edge
+   tdqss_clk        tdqss_clk           0.000           0.083            (R-R)
+   tdqss_clk        core_clk            0.000           0.150            (R-R)
+   core_clk         tdqss_clk           0.000           0.076            (R-R)
+   core_clk         core_clk            0.000           0.034            (R-R)
+   core_clk         tac_clk             0.000           0.067            (R-R)
+   core_clk         twd_clk            -1.953           2.019            (R-R)
+   core_clk         clk_sys             0.000           0.081            (R-R)
+   tac_clk          core_clk            0.000           0.159            (R-R)
+   tac_clk          tac_clk             0.000           0.026            (R-R)
+   tac_clk          clk_sys             0.000           0.112            (R-R)
+   twd_clk          core_clk           -0.651           0.932            (R-R)
+   twd_clk          twd_clk             0.000           0.061            (R-R)
+   twd_clk          clk_sys             0.000           0.131            (R-R)
+   clk_sys          core_clk            0.000           0.145            (R-R)
+   clk_sys          tac_clk             0.000           0.112            (R-R)
+   clk_sys          twd_clk             0.000           0.095            (R-R)
+   clk_sys          clk_sys             0.000           0.028            (R-R)
+   clk_sys          clk_pixel           0.000           0.121            (R-R)
+   clk_pixel        clk_sys             0.000           0.111            (R-R)
+   clk_pixel        clk_pixel           0.000           0.095            (R-R)
+
+WARNING  : Clock domain between core_clk (rising) and clk_sys (rising) may not meet (slack: -0.584 ns) the setup (max) timing requirement
+WARNING  : Clock domain between tac_clk (rising) and clk_sys (rising) may not meet (slack: -0.554 ns) the setup (max) timing requirement
+WARNING  : Clock domain between twd_clk (rising) and clk_sys (rising) may not meet (slack: -0.439 ns) the setup (max) timing requirement
+WARNING  : Clock domain between clk_sys (rising) and core_clk (rising) may not meet (slack: -0.736 ns) the setup (max) timing requirement
+WARNING  : Clock domain between clk_sys (rising) and tac_clk (rising) may not meet (slack: -0.639 ns) the setup (max) timing requirement
+WARNING  : Clock domain between clk_sys (rising) and twd_clk (rising) may not meet (slack: -0.599 ns) the setup (max) timing requirement
+WARNING  : Clock domain between clk_sys (rising) and clk_pixel (rising) may not meet (slack: -0.908 ns) the setup (max) timing requirement
+WARNING  : Clock domain between clk_pixel (rising) and clk_sys (rising) may not meet (slack: -1.098 ns) the setup (max) timing requirement
+INFO     : Write Timing Report to "F:/code/Efinity/lvbo/outflow\Ti60_Demo.timing.rpt" ...
+INFO     : final timing analysis took 10.1327 seconds.
+INFO     : 	final timing analysis took 10.1094 seconds (approximately) in total CPU time.
+INFO     : final timing analysis virtual memory usage: begin = 339.416 MB, end = 383.496 MB, delta = 44.08 MB
+INFO     : 	final timing analysis peak virtual memory usage = 438.952 MB
+INFO     : final timing analysis resident set memory usage: begin = 353.32 MB, end = 394.716 MB, delta = 41.396 MB
+INFO     : 	final timing analysis peak resident set memory usage = 416.356 MB
+           ***** Ending stage final timing analysis *****
+           
+           ***** Beginning stage netlist pre-processing ... *****
+INFO     : Successfully Read in Verific binary Netlist dump file "F:/code/Efinity/lvbo/outflow/Ti60_Demo.vdb".
+INFO     : ***** Beginning VDB Netlist Checker ... *****
+WARNING  : F:\code\Efinity\lvbo\example_top.v(11): Input/inout port clk_24m is unconnected and will be removed. [VDB-8003]
+WARNING  : F:\code\Efinity\lvbo\example_top.v(12): Input/inout port clk_25m is unconnected and will be removed. [VDB-8003]
+WARNING  : F:\code\Efinity\lvbo\example_top.v(21): Input/inout port clk_pixel_2x is unconnected and will be removed. [VDB-8003]
+WARNING  : F:\code\Efinity\lvbo\example_top.v(22): Input/inout port clk_pixel_10x is unconnected and will be removed. [VDB-8003]
+WARNING  : F:\code\Efinity\lvbo\example_top.v(30): Input/inout port dsi_refclk_i is unconnected and will be removed. [VDB-8003]
+WARNING  : F:\code\Efinity\lvbo\example_top.v(31): Input/inout port dsi_byteclk_i is unconnected and will be removed. [VDB-8003]
+WARNING  : F:\code\Efinity\lvbo\example_top.v(32): Input/inout port dsi_serclk_i is unconnected and will be removed. [VDB-8003]
+WARNING  : F:\code\Efinity\lvbo\example_top.v(33): Input/inout port dsi_txcclk_i is unconnected and will be removed. [VDB-8003]
+WARNING  : F:\code\Efinity\lvbo\example_top.v(60): Input/inout port clk_lvds_1x is unconnected and will be removed. [VDB-8003]
+WARNING  : F:\code\Efinity\lvbo\example_top.v(61): Input/inout port clk_lvds_7x is unconnected and will be removed. [VDB-8003]
+WARNING  : F:\code\Efinity\lvbo\example_top.v(62): Input/inout port clk_27m is unconnected and will be removed. [VDB-8003]
+WARNING  : F:\code\Efinity\lvbo\example_top.v(63): Input/inout port clk_54m is unconnected and will be removed. [VDB-8003]
+WARNING  : F:\code\Efinity\lvbo\example_top.v(97): Input/inout port i_dqs_n_hi[1] is unconnected and will be removed. [VDB-8003]
+WARNING  : F:\code\Efinity\lvbo\example_top.v(98): Input/inout port i_dqs_n_lo[1] is unconnected and will be removed. [VDB-8003]
+WARNING  : F:\code\Efinity\lvbo\example_top.v(121): Input/inout port csi_ctl0_i is unconnected and will be removed. [VDB-8003]
+WARNING  : F:\code\Efinity\lvbo\example_top.v(125): Input/inout port csi_ctl1_i is unconnected and will be removed. [VDB-8003]
+WARNING  : F:\code\Efinity\lvbo\example_top.v(129): Input/inout port csi_scl_i is unconnected and will be removed. [VDB-8003]
+WARNING  : F:\code\Efinity\lvbo\example_top.v(136): Input/inout port csi_rxc_lp_p_i is unconnected and will be removed. [VDB-8003]
+WARNING  : F:\code\Efinity\lvbo\example_top.v(137): Input/inout port csi_rxc_lp_n_i is unconnected and will be removed. [VDB-8003]
+WARNING  : F:\code\Efinity\lvbo\example_top.v(156): Input/inout port csi_rxd1_lp_n_i is unconnected and will be removed. [VDB-8003]
+WARNING  : F:\code\Efinity\lvbo\example_top.v(157): Input/inout port csi_rxd1_lp_p_i is unconnected and will be removed. [VDB-8003]
+WARNING  : F:\code\Efinity\lvbo\example_top.v(158): Input/inout port csi_rxd1_hs_i[7] is unconnected and will be removed. [VDB-8003]
+WARNING  : F:\code\Efinity\lvbo\example_top.v(165): Input/inout port csi_rxd2_lp_p_i is unconnected and will be removed. [VDB-8003]
+WARNING  : F:\code\Efinity\lvbo\example_top.v(166): Input/inout port csi_rxd2_lp_n_i is unconnected and will be removed. [VDB-8003]
+WARNING  : F:\code\Efinity\lvbo\example_top.v(167): Input/inout port csi_rxd2_hs_i[7] is unconnected and will be removed. [VDB-8003]
+WARNING  : F:\code\Efinity\lvbo\example_top.v(174): Input/inout port csi_rxd3_lp_p_i is unconnected and will be removed. [VDB-8003]
+WARNING  : F:\code\Efinity\lvbo\example_top.v(175): Input/inout port csi_rxd3_lp_n_i is unconnected and will be removed. [VDB-8003]
+WARNING  : F:\code\Efinity\lvbo\example_top.v(176): Input/inout port csi_rxd3_hs_i[7] is unconnected and will be removed. [VDB-8003]
+WARNING  : F:\code\Efinity\lvbo\example_top.v(235): Input/inout port dsi_txd0_lp_p_i is unconnected and will be removed. [VDB-8003]
+WARNING  : F:\code\Efinity\lvbo\example_top.v(236): Input/inout port dsi_txd0_lp_n_i is unconnected and will be removed. [VDB-8003]
+WARNING  : F:\code\Efinity\lvbo\example_top.v(237): Input/inout port dsi_txd1_lp_p_i is unconnected and will be removed. [VDB-8003]
+WARNING  : F:\code\Efinity\lvbo\example_top.v(238): Input/inout port dsi_txd1_lp_n_i is unconnected and will be removed. [VDB-8003]
+WARNING  : F:\code\Efinity\lvbo\example_top.v(239): Input/inout port dsi_txd2_lp_p_i is unconnected and will be removed. [VDB-8003]
+WARNING  : F:\code\Efinity\lvbo\example_top.v(240): Input/inout port dsi_txd2_lp_n_i is unconnected and will be removed. [VDB-8003]
+WARNING  : F:\code\Efinity\lvbo\example_top.v(241): Input/inout port dsi_txd3_lp_p_i is unconnected and will be removed. [VDB-8003]
+WARNING  : F:\code\Efinity\lvbo\example_top.v(242): Input/inout port dsi_txd3_lp_n_i is unconnected and will be removed. [VDB-8003]
+WARNING  : F:\code\Efinity\lvbo\example_top.v(257): Input/inout port cmos_sdat_IN is unconnected and will be removed. [VDB-8003]
+WARNING  : F:\code\Efinity\lvbo\example_top.v(262): Input/inout port cmos_pclk is unconnected and will be removed. [VDB-8003]
+WARNING  : F:\code\Efinity\lvbo\example_top.v(263): Input/inout port cmos_vsync is unconnected and will be removed. [VDB-8003]
+WARNING  : F:\code\Efinity\lvbo\example_top.v(264): Input/inout port cmos_href is unconnected and will be removed. [VDB-8003]
+WARNING  : F:\code\Efinity\lvbo\example_top.v(265): Input/inout port cmos_data[7] is unconnected and will be removed. [VDB-8003]
+WARNING  : F:\code\Efinity\lvbo\example_top.v(266): Input/inout port cmos_ctl1 is unconnected and will be removed. [VDB-8003]
+WARNING  : F:\code\Efinity\lvbo\example_top.v(316): Input/inout port lcd_tp_sda_i is unconnected and will be removed. [VDB-8003]
+WARNING  : F:\code\Efinity\lvbo\example_top.v(320): Input/inout port lcd_tp_scl_i is unconnected and will be removed. [VDB-8003]
+WARNING  : F:\code\Efinity\lvbo\example_top.v(324): Input/inout port lcd_tp_int_i is unconnected and will be removed. [VDB-8003]
+WARNING  : F:\code\Efinity\lvbo\example_top.v(344): Input/inout port lcd_b7_0_i[7] is unconnected and will be removed. [VDB-8003]
+WARNING  : F:\code\Efinity\lvbo\example_top.v(345): Input/inout port lcd_g7_0_i[7] is unconnected and will be removed. [VDB-8003]
+WARNING  : F:\code\Efinity\lvbo\example_top.v(346): Input/inout port lcd_r7_0_i[7] is unconnected and will be removed. [VDB-8003]
+WARNING  : CE port of EFX_DSP48 instance u_mean_filter/mult_299 is permanently disabled [VDB-8002]
+WARNING  : CE port of EFX_DSP48 instance mult_189 is permanently disabled [VDB-8002]
+WARNING  : CE port of EFX_DSP48 instance u_mean_filter/mult_301 is permanently disabled [VDB-8002]
+WARNING  : CE port of EFX_DSP48 instance u_mean_filter/mult_303 is permanently disabled [VDB-8002]
+WARNING  : Found 103 warnings in the post-synthesis netlist.
+INFO     : VDB Netlist Checker took 0.0348582 seconds.
+INFO     : 	VDB Netlist Checker took 0.03125 seconds (approximately) in total CPU time.
+INFO     : VDB Netlist Checker virtual memory usage: begin = 361.288 MB, end = 361.328 MB, delta = 0.04 MB
+INFO     : 	VDB Netlist Checker peak virtual memory usage = 438.952 MB
+INFO     : VDB Netlist Checker resident set memory usage: begin = 376.48 MB, end = 376.528 MB, delta = 0.048 MB
+INFO     : 	VDB Netlist Checker peak resident set memory usage = 416.356 MB
+INFO     : ***** Ending VDB Netlist Checker ... *****
+INFO     : Reading core interface constraints file "F:/code/Efinity/lvbo/outflow/Ti60_Demo.interface.csv"
+INFO     : Successfully read core interface constraints file "F:/code/Efinity/lvbo/outflow/Ti60_Demo.interface.csv"
+INFO     : Net clk_lvds_1x promoted to global due to interface constraints.
+INFO     : Net cmos_pclk promoted to global due to interface constraints.
+INFO     : Net clk_pixel_10x promoted to global due to interface constraints.
+INFO     : Net clk_lvds_7x promoted to global due to interface constraints.
+INFO     : Net clk_27m promoted to global due to interface constraints.
+INFO     : Net dsi_serclk_i promoted to global due to interface constraints.
+INFO     : Net dsi_byteclk_i promoted to global due to interface constraints.
+INFO     : Net dsi_txcclk_i promoted to global due to interface constraints.
+INFO     : Found 0 constant generator nets.
+INFO     : Pass 0: Swept away 0 nets with no fanout.
+INFO     : logical_block #0(clk_24m) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #1(clk_25m) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #5(clk_pixel_2x) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #9(dsi_refclk_i) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #33(clk_54m) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #149(i_dqs_n_hi[1]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #150(i_dqs_n_hi[0]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #151(i_dqs_n_lo[1]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #152(i_dqs_n_lo[0]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #171(csi_ctl0_i) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #174(csi_ctl1_i) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #177(csi_scl_i) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #181(csi_rxc_lp_p_i) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #182(csi_rxc_lp_n_i) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #202(csi_rxd1_lp_n_i) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #203(csi_rxd1_lp_p_i) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #204(csi_rxd1_hs_i[7]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #205(csi_rxd1_hs_i[6]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #206(csi_rxd1_hs_i[5]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #207(csi_rxd1_hs_i[4]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #208(csi_rxd1_hs_i[3]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #209(csi_rxd1_hs_i[2]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #210(csi_rxd1_hs_i[1]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #211(csi_rxd1_hs_i[0]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #215(csi_rxd2_lp_p_i) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #216(csi_rxd2_lp_n_i) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #217(csi_rxd2_hs_i[7]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #218(csi_rxd2_hs_i[6]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #219(csi_rxd2_hs_i[5]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #220(csi_rxd2_hs_i[4]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #221(csi_rxd2_hs_i[3]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #222(csi_rxd2_hs_i[2]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #223(csi_rxd2_hs_i[1]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #224(csi_rxd2_hs_i[0]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #228(csi_rxd3_lp_p_i) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #229(csi_rxd3_lp_n_i) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #230(csi_rxd3_hs_i[7]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #231(csi_rxd3_hs_i[6]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #232(csi_rxd3_hs_i[5]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #233(csi_rxd3_hs_i[4]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #234(csi_rxd3_hs_i[3]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #235(csi_rxd3_hs_i[2]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #236(csi_rxd3_hs_i[1]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #237(csi_rxd3_hs_i[0]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #310(dsi_txd0_lp_p_i) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #311(dsi_txd0_lp_n_i) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #312(dsi_txd1_lp_p_i) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #313(dsi_txd1_lp_n_i) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #314(dsi_txd2_lp_p_i) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #315(dsi_txd2_lp_n_i) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #316(dsi_txd3_lp_p_i) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #317(dsi_txd3_lp_n_i) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #327(cmos_sdat_IN) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #331(cmos_vsync) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #332(cmos_href) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #333(cmos_data[7]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #334(cmos_data[6]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #335(cmos_data[5]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #336(cmos_data[4]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #337(cmos_data[3]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #338(cmos_data[2]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #339(cmos_data[1]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #340(cmos_data[0]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #341(cmos_ctl1) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #439(lcd_tp_sda_i) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #442(lcd_tp_scl_i) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #445(lcd_tp_int_i) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #500(lcd_b7_0_i[7]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #501(lcd_b7_0_i[6]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #502(lcd_b7_0_i[5]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #503(lcd_b7_0_i[4]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #504(lcd_b7_0_i[3]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #505(lcd_b7_0_i[2]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #506(lcd_b7_0_i[1]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #507(lcd_b7_0_i[0]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #508(lcd_g7_0_i[7]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #509(lcd_g7_0_i[6]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #510(lcd_g7_0_i[5]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #511(lcd_g7_0_i[4]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #512(lcd_g7_0_i[3]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #513(lcd_g7_0_i[2]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #514(lcd_g7_0_i[1]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #515(lcd_g7_0_i[0]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #516(lcd_r7_0_i[7]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #517(lcd_r7_0_i[6]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #518(lcd_r7_0_i[5]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #519(lcd_r7_0_i[4]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #520(lcd_r7_0_i[3]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #521(lcd_r7_0_i[2]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #522(lcd_r7_0_i[1]) has no fanout.
+INFO     : Removing input.
+INFO     : logical_block #523(lcd_r7_0_i[0]) has no fanout.
+INFO     : Removing input.
+INFO     : Pass 0: Swept away 91 blocks with no fanout.
+INFO     : Pass 1: Swept away 0 nets with no fanout.
+INFO     : Pass 1: Swept away 0 blocks with no fanout.
+INFO     : Swept away 0 nets and 91 blocks in total.
+INFO     : Removed 0 LUT buffers
+INFO     : Sweept away 91 nodes
+INFO     : Successfully created VPR logical netlist from Verific binary DataBase file "F:/code/Efinity/lvbo/outflow/Ti60_Demo.vdb".
+INFO     : Netlist pre-processing took 0.207088 seconds.
+INFO     : 	Netlist pre-processing took 0.1875 seconds (approximately) in total CPU time.
+INFO     : Netlist pre-processing virtual memory usage: begin = 342.224 MB, end = 377.296 MB, delta = 35.072 MB
+INFO     : 	Netlist pre-processing peak virtual memory usage = 438.952 MB
+INFO     : Netlist pre-processing resident set memory usage: begin = 357.436 MB, end = 392.076 MB, delta = 34.64 MB
+INFO     : 	Netlist pre-processing peak resident set memory usage = 416.356 MB
+           ***** Ending stage netlist pre-processing *****
+           
+           ***** Beginning stage packed netlist loading ... *****
+INFO     : Load Global Network took 0.567402 seconds.
+INFO     : 	Load Global Network took 0.171875 seconds (approximately) in total CPU time.
+INFO     : Load Global Network virtual memory usage: begin = 377.336 MB, end = 381.656 MB, delta = 4.32 MB
+INFO     : 	Load Global Network peak virtual memory usage = 438.952 MB
+INFO     : Load Global Network resident set memory usage: begin = 392.12 MB, end = 396.188 MB, delta = 4.068 MB
+INFO     : 	Load Global Network peak resident set memory usage = 416.356 MB
+INFO     : Reading E:/Efinity/arch/.\rr_pb_hier_mapping.xml
+INFO     : Read proto netlist file F:/code/Efinity/lvbo/work_pnr\Ti60_Demo.net_proto
+INFO     : Read proto netlist for file "F:/code/Efinity/lvbo/work_pnr\Ti60_Demo.net_proto" took 0.01 seconds
+INFO     : Setup net and block data structure took 0.097 seconds
+INFO     : Reading core interface constraints file "F:/code/Efinity/lvbo/outflow/Ti60_Demo.interface.csv"
+INFO     : Successfully read core interface constraints file "F:/code/Efinity/lvbo/outflow/Ti60_Demo.interface.csv"
+INFO     : Packed netlist loading took 0.862811 seconds.
+INFO     : 	Packed netlist loading took 0.4375 seconds (approximately) in total CPU time.
+INFO     : Packed netlist loading virtual memory usage: begin = 377.296 MB, end = 414.304 MB, delta = 37.008 MB
+INFO     : 	Packed netlist loading peak virtual memory usage = 438.952 MB
+INFO     : Packed netlist loading resident set memory usage: begin = 392.076 MB, end = 426.164 MB, delta = 34.088 MB
+INFO     : 	Packed netlist loading peak resident set memory usage = 426.164 MB
+           ***** Ending stage packed netlist loading *****
+           
+INFO     : Run checks after load placement.
+INFO     : Reading core interface constraints file "F:/code/Efinity/lvbo/outflow/Ti60_Demo.interface.csv"
+INFO     : Successfully read core interface constraints file "F:/code/Efinity/lvbo/outflow/Ti60_Demo.interface.csv"
+INFO     : Successfully loaded placement data from "F:/code/Efinity/lvbo/outflow/Ti60_Demo.place".
+           ***** Beginning stage bitstream generation ... *****
+INFO     : Reading core interface constraints file "F:/code/Efinity/lvbo/outflow/Ti60_Demo.interface.csv"
+INFO     : Successfully read core interface constraints file "F:/code/Efinity/lvbo/outflow/Ti60_Demo.interface.csv"
+INFO     : Finished writing bitstream file F:/code/Efinity/lvbo/work_pnr\Ti60_Demo.lbf.
+INFO     : Bitstream generation took 1.45548 seconds.
+INFO     : 	Bitstream generation took 1.4375 seconds (approximately) in total CPU time.
+INFO     : Bitstream generation virtual memory usage: begin = 375.744 MB, end = 463.4 MB, delta = 87.656 MB
+INFO     : 	Bitstream generation peak virtual memory usage = 463.4 MB
+INFO     : Bitstream generation resident set memory usage: begin = 387.892 MB, end = 476.792 MB, delta = 88.9 MB
+INFO     : 	Bitstream generation peak resident set memory usage = 476.792 MB
+           ***** Ending stage bitstream generation *****
+           
+INFO     : The entire flow of EFX_PNR took 48.5744 seconds.
+INFO     : 	The entire flow of EFX_PNR took 97.2812 seconds (approximately) in total CPU time.
+INFO     : The entire flow of EFX_PNR virtual memory usage: begin = 19.888 MB, end = 463.4 MB, delta = 443.512 MB
+INFO     : 	The entire flow of EFX_PNR peak virtual memory usage = 463.4 MB
+INFO     : The entire flow of EFX_PNR resident set memory usage: begin = 21.456 MB, end = 476.816 MB, delta = 455.36 MB
+INFO     : 	The entire flow of EFX_PNR peak resident set memory usage = 476.816 MB

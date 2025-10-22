@@ -1,0 +1,56 @@
+{
+    "args": [
+        "-o",
+        "div_u26_u10",
+        "--base_path",
+        "D:\\FPGA_learning\\Efinity_Project\\Ti60F225_AD2020\\Ti60F225_AD2020_1280x720@30_HDMI_BasicISP\\ip",
+        "--vlnv",
+        {
+            "vendor": "efinixinc.com",
+            "library": "arithmetic",
+            "name": "efx_divider",
+            "version": "5.2"
+        }
+    ],
+    "conf": {
+        "NREPRESENTATION": "\"UNSIGNED\"",
+        "WIDTHN": "26",
+        "WIDTHD": "10",
+        "DREPRESENTATION": "\"UNSIGNED\"",
+        "PIPELINE": "1'b1",
+        "LATENCY": "12"
+    },
+    "output": {
+        "external_source_source": [
+            "div_u26_u10\\div_u26_u10_tmpl.vhd",
+            "div_u26_u10\\div_u26_u10_tmpl.v",
+            "div_u26_u10\\div_u26_u10.v",
+            "div_u26_u10\\div_u26_u10_define.vh"
+        ],
+        "external_example_example": [
+            "div_u26_u10\\T20F256_devkit\\demo_divider.v",
+            "div_u26_u10\\T20F256_devkit\\example_divider_T20.sdc",
+            "div_u26_u10\\T20F256_devkit\\div_u26_u10.v",
+            "div_u26_u10\\T20F256_devkit\\div_u26_u10_define.vh",
+            "div_u26_u10\\T20F256_devkit\\divider.peri.xml",
+            "div_u26_u10\\T20F256_devkit\\divider.xml"
+        ],
+        "external_example_2": [
+            "div_u26_u10\\Ti60F225_devkit\\demo_divider.v",
+            "div_u26_u10\\Ti60F225_devkit\\example_divider_Ti60.sdc",
+            "div_u26_u10\\Ti60F225_devkit\\div_u26_u10.v",
+            "div_u26_u10\\Ti60F225_devkit\\div_u26_u10_define.vh",
+            "div_u26_u10\\Ti60F225_devkit\\divider.peri.xml",
+            "div_u26_u10\\Ti60F225_devkit\\divider.xml"
+        ],
+        "external_testbench_testbench": [
+            "div_u26_u10\\Testbench\\tb_divider.v",
+            "div_u26_u10\\Testbench\\demo_divider.v",
+            "div_u26_u10\\Testbench\\modelsim.do",
+            "div_u26_u10\\Testbench\\div_u26_u10.v",
+            "div_u26_u10\\Testbench\\div_u26_u10_define.vh"
+        ]
+    },
+    "sw_version": "2024.2.294",
+    "generated_date": "2025-03-25T01:50:12.060723+00:00"
+}

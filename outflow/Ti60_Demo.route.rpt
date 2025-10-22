@@ -1,0 +1,72 @@
+
+Efinix FPGA Placement and Routing.
+Version: 2025.1.110.2.15 
+Date: Tue Oct 21 20:44:08 2025
+
+Copyright (C) 2013 - 2025 Efinix, Inc. All rights reserved.
+ 
+Family: Titanium 
+Device: Ti60F225
+Top-level Entity Name: Ti60_Demo
+
+
+---------- GBUFCE Assignments (begin) ----------
+
+
++---------------+----------+----------+
+|   Clock Net   | GBUFCE_X | GBUFCE_Y |
++---------------+----------+----------+
+|    clk_27m    |   218    |   163    |
+|  clk_lvds_1x  |   218    |   162    |
+|  clk_lvds_7x  |   218    |   158    |
+|   clk_pixel   |    1     |   159    |
+| clk_pixel_10x |    1     |   164    |
+|    clk_sys    |    1     |   162    |
+|   cmos_pclk   |   111    |   322    |
+|   core_clk    |   218    |   164    |
+|   csi_rxc_i   |   218    |   161    |
+| dsi_byteclk_i |   112    |    1     |
+| dsi_serclk_i  |   107    |    1     |
+| dsi_txcclk_i  |   108    |    1     |
+|    tac_clk    |   111    |    1     |
+|   tdqss_clk   |   110    |    1     |
+|    twd_clk    |   218    |   159    |
++---------------+----------+----------+
+
+
+----------- GBUFCE Assignments (end) ----------
+
+
+
+---------- Resource Summary (begin) ----------
+Inputs: 67 / 1703 (3.93%)
+Outputs: 483 / 2267 (21.31%)
+Global Clocks (GBUF): 15 / 32 (46.88%)
+Regional Clocks (RBUF): 0 / 32 (0.00%)
+	RBUF: Core: 0 / 16 (0.00%)
+	RBUF: Periphery: 0 / 8 (0.00%)
+	RBUF: Multi-Region: 0 / 8 (0.00%)
+XLRs: 11091 / 60800 (18.24%)
+	XLRs needed for Logic: 3280 / 60800 (5.39%)
+	XLRs needed for Logic + FF: 2285 / 60800 (3.76%)
+	XLRs needed for Adder: 1293 / 60800 (2.13%)
+	XLRs needed for Adder + FF: 197 / 60800 (0.32%)
+	XLRs needed for FF: 3336 / 60800 (5.49%)
+	XLRs needed for SRL8: 700 / 14720 (4.76%)
+	XLRs needed for SRL8+FF: 0 / 14720 (0.00%)
+	XLRs needed for Routing: 0 / 60800 (0.00%)
+Memory Blocks: 87 / 256 (33.98%)
+DSP Blocks: 4 / 160 (2.50%)
+---------- Resource Summary (end) ----------
+
+
+---------- DSP Packer Summary (begin) ----------
+
+	DSP48 blocks required to legally pack design: 4
+	DSP48 blocks recoverable by optimizing:
+		-> DSP24/12 control signals & parameters: 0
+	Best case scenario DSP count after optimizing: 4
+
+---------- DSP Packer Summary (end) ----------
+
+Elapsed time for entire flow: 0 hours 0 minutes 48 seconds

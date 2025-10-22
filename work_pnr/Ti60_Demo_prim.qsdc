@@ -1,0 +1,103 @@
+
+9
+dsi_byteclk_iÅ∫*
+dsi_byteclk_iINPAD0Jn JF 
+<
+dsi_txcclk_i¿.∏ ÿ(*
+dsi_txcclk_iINPAD0Jn JF 
+<
+dsi_serclk_i¿.Ë à*
+dsi_serclk_iINPAD0Jn JF 
+0
+	tdqss_clk¨*
+	tdqss_clkINPAD0Jn JF 
+.
+core_clkÿ(*
+core_clkINPAD0Jn JF 
+,
+tac_clk¨*
+tac_clkINPAD0Jn JF 
+2
+twd_clk¨ã °*
+twd_clkINPAD0Jn JF 
+,
+clk_sys±Q*
+clk_sysINPAD0Jn JF 
+0
+	clk_pixelÅi*
+	clk_pixelINPAD0Jn JF 
+>
+clk_pixel_10x¿
+– *
+clk_pixel_10xINPAD0Jn JF 
+5
+clk_lvds_1x·¢*
+clk_lvds_1xINPAD0Jn JF 
+:
+clk_lvds_7x†Ë ∏*
+clk_lvds_7xINPAD0Jn JF 
+-
+clk_27m§Ë*
+clk_27mINPAD0Jn JF 
+0
+	cmos_pclkêN*
+	cmos_pclkINPAD0Jn JF 
+0
+	csi_rxc_i.*
+	csi_rxc_iINPAD0Jn JF 	
+tac_clk"	
+clk_sys8	
+twd_clk"	
+clk_sys8	
+clk_sys"	
+tac_clk8	
+clk_sys"	
+twd_clk8	
+twd_clk"
+
+core_clk8	
+clk_sys"
+	csi_rxc_i8
+	csi_rxc_i"	
+clk_sys8	
+clk_sys"
+	clk_pixel8
+	clk_pixel"	
+clk_sys8	
+clk_sys"
+	cmos_pclk8
+	cmos_pclk"	
+clk_sys8$
+dsi_byteclk_i"
+clk_lvds_1x8$
+clk_lvds_1x"
+dsi_byteclk_i8 
+dsi_byteclk_i"	
+clk_sys8 	
+clk_sys"
+dsi_byteclk_i8"
+dsi_byteclk_i"
+	clk_pixel8"
+	clk_pixel"
+dsi_byteclk_i8
+
+core_clk"	
+clk_sys0î#8	
+clk_sys"
+
+core_clk0î#8'
+core_clk
+tac_clk
+	tdqss_clk
+twd_clká
+	csi_rxc_i
+	cmos_pclk
+dsi_byteclk_i
+dsi_txcclk_i
+	clk_pixel
+dsi_serclk_i
+clk_27m
+clk_sys
+clk_lvds_1x
+clk_pixel_10x
+clk_lvds_7x
